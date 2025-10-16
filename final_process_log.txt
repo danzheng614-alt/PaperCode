@@ -1,0 +1,1426 @@
+2025-10-15 10:49:42 - [BT01] poses_1_off 找到的exo文件：['BT01_poses_1_off_exo.csv']
+2025-10-15 10:49:42 - [BT01] poses_1_off 找到的moment_filt文件：['BT01_poses_1_off_moment_filt.csv']
+2025-10-15 10:49:42 - [BT01] poses_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:42 - [BT01] poses_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:42 - [BT01] poses_1_off：修正 8 个字段的符号
+2025-10-15 10:49:42 - [BT01] poses_1_off：通过activity_flag筛选，保留 19856/19856 行数据
+2025-10-15 10:49:42 - [BT01] poses_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 10:49:42 - [BT01] curb_down_1_2_off 找到的exo文件：['BT01_curb_down_1_2_off_exo.csv']
+2025-10-15 10:49:42 - [BT01] curb_down_1_2_off 找到的moment_filt文件：['BT01_curb_down_1_2_off_moment_filt.csv']
+2025-10-15 10:49:42 - [BT01] curb_down_1_2_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:42 - [BT01] lift_weight_2_0lbs-r-c_on 找到的exo文件：['BT01_lift_weight_2_0lbs-r-c_on_exo.csv']
+2025-10-15 10:49:42 - [BT01] lift_weight_2_0lbs-r-c_on 找到的moment_filt文件：['BT01_lift_weight_2_0lbs-r-c_on_moment_filt.csv']
+2025-10-15 10:49:42 - [BT01] lift_weight_2_0lbs-r-c_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:42 - [BT01] lift_weight_2_0lbs-r-c_on：修正 8 个字段的符号
+2025-10-15 10:49:42 - [BT01] lift_weight_2_0lbs-r-c_on：通过activity_flag筛选，保留 1911/3001 行数据
+2025-10-15 10:49:42 - [BT01] lift_weight_2_0lbs-r-c_on 成功：保存至 ./final_clean_data/BT01/lift_weight_2_0lbs-r-c_on
+2025-10-15 10:49:42 - [BT01] walk_backward_1_0-6_on 找到的exo文件：['BT01_walk_backward_1_0-6_on_exo.csv']
+2025-10-15 10:49:42 - [BT01] walk_backward_1_0-6_on 找到的moment_filt文件：['BT01_walk_backward_1_0-6_on_moment_filt.csv']
+2025-10-15 10:49:42 - [BT01] walk_backward_1_0-6_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:42 - [BT01] walk_backward_1_0-6_on：修正 8 个字段的符号
+2025-10-15 10:49:42 - [BT01] walk_backward_1_0-6_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:42 - [BT01] walk_backward_1_0-6_on 成功：保存至 ./final_clean_data/BT01/walk_backward_1_0-6_on
+2025-10-15 10:49:42 - [BT01] lunges_2_2_right_off 找到的exo文件：['BT01_lunges_2_2_right_off_exo.csv']
+2025-10-15 10:49:42 - [BT01] lunges_2_2_right_off 找到的moment_filt文件：['BT01_lunges_2_2_right_off_moment_filt.csv']
+2025-10-15 10:49:42 - [BT01] lunges_2_2_right_off 有效腿：['left', 'right']
+2025-10-15 10:49:42 - [BT01] lunges_2_2_right_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:42 - [BT01] lunges_2_2_right_off：修正 8 个字段的符号
+2025-10-15 10:49:42 - [BT01] lunges_2_2_right_off：通过activity_flag筛选，保留 1680/3001 行数据
+2025-10-15 10:49:42 - [BT01] lunges_2_2_right_off 成功：保存至 ./final_clean_data/BT01/lunges_2_2_right_off
+2025-10-15 10:49:42 - [BT01] jump_2_180_on 找到的exo文件：['BT01_jump_2_180_on_exo.csv']
+2025-10-15 10:49:42 - [BT01] jump_2_180_on 找到的moment_filt文件：['BT01_jump_2_180_on_moment_filt.csv']
+2025-10-15 10:49:42 - [BT01] jump_2_180_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:42 - [BT01] jump_2_180_on：修正 8 个字段的符号
+2025-10-15 10:49:42 - [BT01] jump_2_180_on：通过activity_flag筛选，保留 2296/3401 行数据
+2025-10-15 10:49:42 - [BT01] jump_2_180_on 成功：保存至 ./final_clean_data/BT01/jump_2_180_on
+2025-10-15 10:49:42 - [BT01] incline_walk_6_up10_off 找到的exo文件：['BT01_incline_walk_6_up10_off_exo.csv']
+2025-10-15 10:49:42 - [BT01] incline_walk_6_up10_off 找到的moment_filt文件：['BT01_incline_walk_6_up10_off_moment_filt.csv']
+2025-10-15 10:49:42 - [BT01] incline_walk_6_up10_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:42 - [BT01] incline_walk_6_up10_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:42 - [BT01] incline_walk_6_up10_off：修正 8 个字段的符号
+2025-10-15 10:49:42 - [BT01] incline_walk_6_up10_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:43 - [BT01] incline_walk_6_up10_off 成功：保存至 ./final_clean_data/BT01/incline_walk_6_up10_off
+2025-10-15 10:49:43 - [BT01] lift_weight_2_0lbs-l-l_on 找到的exo文件：['BT01_lift_weight_2_0lbs-l-l_on_exo.csv']
+2025-10-15 10:49:43 - [BT01] lift_weight_2_0lbs-l-l_on 找到的moment_filt文件：['BT01_lift_weight_2_0lbs-l-l_on_moment_filt.csv']
+2025-10-15 10:49:43 - [BT01] lift_weight_2_0lbs-l-l_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:43 - [BT01] lift_weight_2_0lbs-l-l_on：修正 8 个字段的符号
+2025-10-15 10:49:43 - [BT01] lift_weight_2_0lbs-l-l_on：通过activity_flag筛选，保留 2027/3201 行数据
+2025-10-15 10:49:43 - [BT01] lift_weight_2_0lbs-l-l_on 成功：保存至 ./final_clean_data/BT01/lift_weight_2_0lbs-l-l_on
+2025-10-15 10:49:43 - [BT01] squats_2_0lbs_off 找到的exo文件：['BT01_squats_2_0lbs_off_exo.csv']
+2025-10-15 10:49:43 - [BT01] squats_2_0lbs_off 找到的moment_filt文件：['BT01_squats_2_0lbs_off_moment_filt.csv']
+2025-10-15 10:49:43 - [BT01] squats_2_0lbs_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:43 - [BT01] squats_2_0lbs_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:43 - [BT01] squats_2_0lbs_off：修正 8 个字段的符号
+2025-10-15 10:49:43 - [BT01] squats_2_0lbs_off：通过activity_flag筛选，保留 1772/2601 行数据
+2025-10-15 10:49:43 - [BT01] squats_2_0lbs_off 成功：保存至 ./final_clean_data/BT01/squats_2_0lbs_off
+2025-10-15 10:49:43 - [BT01] tug_of_war_1_on 找到的exo文件：['BT01_tug_of_war_1_on_exo.csv']
+2025-10-15 10:49:43 - [BT01] tug_of_war_1_on 找到的moment_filt文件：['BT01_tug_of_war_1_on_moment_filt.csv']
+2025-10-15 10:49:43 - [BT01] tug_of_war_1_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:43 - [BT01] tug_of_war_1_on：修正 8 个字段的符号
+2025-10-15 10:49:43 - [BT01] tug_of_war_1_on：通过activity_flag筛选，保留 13199/13199 行数据
+2025-10-15 10:49:43 - [BT01] tug_of_war_1_on 成功：保存至 ./final_clean_data/BT01/tug_of_war_1_on
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_left_off 找到的exo文件：['BT01_ball_toss_1_2_left_off_exo.csv']
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_left_off 找到的moment_filt文件：['BT01_ball_toss_1_2_left_off_moment_filt.csv']
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_left_off 有效腿：['left', 'right']
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_left_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_left_off：修正 8 个字段的符号
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_left_off：通过activity_flag筛选，保留 1045/3401 行数据
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_left_off 成功：保存至 ./final_clean_data/BT01/ball_toss_1_2_left_off
+2025-10-15 10:49:43 - [BT01] lunges_2_left_on 找到的exo文件：['BT01_lunges_2_left_on_exo.csv']
+2025-10-15 10:49:43 - [BT01] lunges_2_left_on 找到的moment_filt文件：['BT01_lunges_2_left_on_moment_filt.csv']
+2025-10-15 10:49:43 - [BT01] lunges_2_left_on 有效腿：['left', 'right']
+2025-10-15 10:49:43 - [BT01] lunges_2_left_on：修正 8 个字段的符号
+2025-10-15 10:49:43 - [BT01] lunges_2_left_on：通过activity_flag筛选，保留 1682/3401 行数据
+2025-10-15 10:49:43 - [BT01] lunges_2_left_on 成功：保存至 ./final_clean_data/BT01/lunges_2_left_on
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_center_off 找到的exo文件：['BT01_ball_toss_1_2_center_off_exo.csv']
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_center_off 找到的moment_filt文件：['BT01_ball_toss_1_2_center_off_moment_filt.csv']
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_center_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_center_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_center_off：修正 8 个字段的符号
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_center_off：通过activity_flag筛选，保留 1368/3801 行数据
+2025-10-15 10:49:43 - [BT01] ball_toss_1_2_center_off 成功：保存至 ./final_clean_data/BT01/ball_toss_1_2_center_off
+2025-10-15 10:49:43 - [BT01] sit_to_stand_2_tall-noarm_on 找到的exo文件：['BT01_sit_to_stand_2_tall-noarm_on_exo.csv']
+2025-10-15 10:49:43 - [BT01] sit_to_stand_2_tall-noarm_on 找到的moment_filt文件：['BT01_sit_to_stand_2_tall-noarm_on_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] sit_to_stand_2_tall-noarm_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:44 - [BT01] sit_to_stand_2_tall-noarm_on：修正 8 个字段的符号
+2025-10-15 10:49:44 - [BT01] sit_to_stand_2_tall-noarm_on：通过activity_flag筛选，保留 6316/16401 行数据
+2025-10-15 10:49:44 - [BT01] sit_to_stand_2_tall-noarm_on 成功：保存至 ./final_clean_data/BT01/sit_to_stand_2_tall-noarm_on
+2025-10-15 10:49:44 - [BT01] ball_toss_1_2_right_off 找到的exo文件：['BT01_ball_toss_1_2_right_off_exo.csv']
+2025-10-15 10:49:44 - [BT01] ball_toss_1_2_right_off 找到的moment_filt文件：['BT01_ball_toss_1_2_right_off_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] ball_toss_1_2_right_off 有效腿：['left', 'right']
+2025-10-15 10:49:44 - [BT01] ball_toss_1_2_right_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:44 - [BT01] ball_toss_1_2_right_off：修正 8 个字段的符号
+2025-10-15 10:49:44 - [BT01] ball_toss_1_2_right_off：通过activity_flag筛选，保留 987/3001 行数据
+2025-10-15 10:49:44 - [BT01] ball_toss_1_2_right_off 成功：保存至 ./final_clean_data/BT01/ball_toss_1_2_right_off
+2025-10-15 10:49:44 - [BT01] stairs_1_10_down_off 找到的exo文件：['BT01_stairs_1_10_down_off_exo.csv']
+2025-10-15 10:49:44 - [BT01] stairs_1_10_down_off 找到的moment_filt文件：['BT01_stairs_1_10_down_off_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] stairs_1_10_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:44 - [BT01] lift_weight_1_25lbs-r-c_on 找到的exo文件：['BT01_lift_weight_1_25lbs-r-c_on_exo.csv']
+2025-10-15 10:49:44 - [BT01] lift_weight_1_25lbs-r-c_on 找到的moment_filt文件：['BT01_lift_weight_1_25lbs-r-c_on_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] lift_weight_1_25lbs-r-c_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:44 - [BT01] lift_weight_1_25lbs-r-c_on：修正 8 个字段的符号
+2025-10-15 10:49:44 - [BT01] lift_weight_1_25lbs-r-c_on：通过activity_flag筛选，保留 2101/3401 行数据
+2025-10-15 10:49:44 - [BT01] lift_weight_1_25lbs-r-c_on 成功：保存至 ./final_clean_data/BT01/lift_weight_1_25lbs-r-c_on
+2025-10-15 10:49:44 - [BT01] weighted_walk_1_25lbs_off 找到的exo文件：['BT01_weighted_walk_1_25lbs_off_exo.csv']
+2025-10-15 10:49:44 - [BT01] weighted_walk_1_25lbs_off 找到的moment_filt文件：['BT01_weighted_walk_1_25lbs_off_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] weighted_walk_1_25lbs_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:44 - [BT01] weighted_walk_1_25lbs_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:44 - [BT01] weighted_walk_1_25lbs_off：修正 8 个字段的符号
+2025-10-15 10:49:44 - [BT01] weighted_walk_1_25lbs_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:44 - [BT01] weighted_walk_1_25lbs_off 成功：保存至 ./final_clean_data/BT01/weighted_walk_1_25lbs_off
+2025-10-15 10:49:44 - [BT01] normal_walk_1_1-2_on 找到的exo文件：['BT01_normal_walk_1_1-2_on_exo.csv']
+2025-10-15 10:49:44 - [BT01] normal_walk_1_1-2_on 找到的moment_filt文件：['BT01_normal_walk_1_1-2_on_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] normal_walk_1_1-2_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:44 - [BT01] normal_walk_1_1-2_on：修正 8 个字段的符号
+2025-10-15 10:49:44 - [BT01] normal_walk_1_1-2_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:44 - [BT01] normal_walk_1_1-2_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_1-2_on
+2025-10-15 10:49:44 - [BT01] normal_walk_3_2-0_off 找到的exo文件：['BT01_normal_walk_3_2-0_off_exo.csv']
+2025-10-15 10:49:44 - [BT01] normal_walk_3_2-0_off 找到的moment_filt文件：['BT01_normal_walk_3_2-0_off_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] normal_walk_3_2-0_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:44 - [BT01] normal_walk_3_2-0_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:44 - [BT01] normal_walk_3_2-0_off：修正 8 个字段的符号
+2025-10-15 10:49:44 - [BT01] normal_walk_3_2-0_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:44 - [BT01] normal_walk_3_2-0_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_2-0_off
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_high-knees_off 找到的exo文件：['BT01_dynamic_walk_2_high-knees_off_exo.csv']
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_high-knees_off 找到的moment_filt文件：['BT01_dynamic_walk_2_high-knees_off_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_high-knees_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_high-knees_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_high-knees_off：修正 8 个字段的符号
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_high-knees_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_high-knees_off 成功：保存至 ./final_clean_data/BT01/dynamic_walk_2_high-knees_off
+2025-10-15 10:49:44 - [BT01] incline_walk_5_down10_on 找到的exo文件：['BT01_incline_walk_5_down10_on_exo.csv']
+2025-10-15 10:49:44 - [BT01] incline_walk_5_down10_on 找到的moment_filt文件：['BT01_incline_walk_5_down10_on_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] incline_walk_5_down10_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_toe-walk_off 找到的exo文件：['BT01_dynamic_walk_2_toe-walk_off_exo.csv']
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_toe-walk_off 找到的moment_filt文件：['BT01_dynamic_walk_2_toe-walk_off_moment_filt.csv']
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_toe-walk_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_toe-walk_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_toe-walk_off：修正 8 个字段的符号
+2025-10-15 10:49:44 - [BT01] dynamic_walk_2_toe-walk_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:45 - [BT01] dynamic_walk_2_toe-walk_off 成功：保存至 ./final_clean_data/BT01/dynamic_walk_2_toe-walk_off
+2025-10-15 10:49:45 - [BT01] twister_1_off 找到的exo文件：['BT01_twister_1_off_exo.csv']
+2025-10-15 10:49:45 - [BT01] twister_1_off 找到的moment_filt文件：['BT01_twister_1_off_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] twister_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:45 - [BT01] twister_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:45 - [BT01] twister_1_off：修正 8 个字段的符号
+2025-10-15 10:49:45 - [BT01] twister_1_off：通过activity_flag筛选，保留 14152/14152 行数据
+2025-10-15 10:49:45 - [BT01] twister_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 10:49:45 - [BT01] dynamic_walk_2_heel-walk_off 找到的exo文件：['BT01_dynamic_walk_2_heel-walk_off_exo.csv']
+2025-10-15 10:49:45 - [BT01] dynamic_walk_2_heel-walk_off 找到的moment_filt文件：['BT01_dynamic_walk_2_heel-walk_off_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] dynamic_walk_2_heel-walk_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:45 - [BT01] dynamic_walk_2_heel-walk_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:45 - [BT01] dynamic_walk_2_heel-walk_off：修正 8 个字段的符号
+2025-10-15 10:49:45 - [BT01] dynamic_walk_2_heel-walk_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:45 - [BT01] dynamic_walk_2_heel-walk_off 成功：保存至 ./final_clean_data/BT01/dynamic_walk_2_heel-walk_off
+2025-10-15 10:49:45 - [BT01] sit_to_stand_2_2_tall-noarm_off 找到的exo文件：['BT01_sit_to_stand_2_2_tall-noarm_off_exo.csv']
+2025-10-15 10:49:45 - [BT01] sit_to_stand_2_2_tall-noarm_off 找到的moment_filt文件：['BT01_sit_to_stand_2_2_tall-noarm_off_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] sit_to_stand_2_2_tall-noarm_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:45 - [BT01] sit_to_stand_2_2_tall-noarm_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:45 - [BT01] sit_to_stand_2_2_tall-noarm_off：修正 8 个字段的符号
+2025-10-15 10:49:45 - [BT01] sit_to_stand_2_2_tall-noarm_off：通过activity_flag筛选，保留 6086/17601 行数据
+2025-10-15 10:49:45 - [BT01] sit_to_stand_2_2_tall-noarm_off 成功：保存至 ./final_clean_data/BT01/sit_to_stand_2_2_tall-noarm_off
+2025-10-15 10:49:45 - [BT01] lift_weight_1_2_25lbs-r-r_off 找到的exo文件：['BT01_lift_weight_1_2_25lbs-r-r_off_exo.csv']
+2025-10-15 10:49:45 - [BT01] lift_weight_1_2_25lbs-r-r_off 找到的moment_filt文件：['BT01_lift_weight_1_2_25lbs-r-r_off_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] lift_weight_1_2_25lbs-r-r_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:45 - [BT01] lift_weight_1_2_25lbs-r-r_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:45 - [BT01] lift_weight_1_2_25lbs-r-r_off：修正 8 个字段的符号
+2025-10-15 10:49:45 - [BT01] lift_weight_1_2_25lbs-r-r_off：通过activity_flag筛选，保留 2046/3201 行数据
+2025-10-15 10:49:45 - [BT01] lift_weight_1_2_25lbs-r-r_off 成功：保存至 ./final_clean_data/BT01/lift_weight_1_2_25lbs-r-r_off
+2025-10-15 10:49:45 - [BT01] stairs_1_6_down_off 找到的exo文件：['BT01_stairs_1_6_down_off_exo.csv']
+2025-10-15 10:49:45 - [BT01] stairs_1_6_down_off 找到的moment_filt文件：['BT01_stairs_1_6_down_off_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] stairs_1_6_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:45 - [BT01] step_ups_1_right_off 找到的exo文件：['BT01_step_ups_1_right_off_exo.csv']
+2025-10-15 10:49:45 - [BT01] step_ups_1_right_off 找到的moment_filt文件：['BT01_step_ups_1_right_off_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] step_ups_1_right_off 有效腿：['left', 'right']
+2025-10-15 10:49:45 - [BT01] step_ups_1_right_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:45 - [BT01] step_ups_1_right_off：修正 8 个字段的符号
+2025-10-15 10:49:45 - [BT01] step_ups_1_right_off：通过activity_flag筛选，保留 1987/6201 行数据
+2025-10-15 10:49:45 - [BT01] step_ups_1_right_off 成功：保存至 ./final_clean_data/BT01/step_ups_1_right_off
+2025-10-15 10:49:45 - [BT01] stairs_1_9_up_on 找到的exo文件：['BT01_stairs_1_9_up_on_exo.csv']
+2025-10-15 10:49:45 - [BT01] stairs_1_9_up_on 找到的moment_filt文件：['BT01_stairs_1_9_up_on_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] stairs_1_9_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:45 - [BT01] normal_walk_1_1-8_on 找到的exo文件：['BT01_normal_walk_1_1-8_on_exo.csv']
+2025-10-15 10:49:45 - [BT01] normal_walk_1_1-8_on 找到的moment_filt文件：['BT01_normal_walk_1_1-8_on_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] normal_walk_1_1-8_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:45 - [BT01] normal_walk_1_1-8_on：修正 8 个字段的符号
+2025-10-15 10:49:45 - [BT01] normal_walk_1_1-8_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:45 - [BT01] normal_walk_1_1-8_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_1-8_on
+2025-10-15 10:49:45 - [BT01] stairs_2_8_down_on 找到的exo文件：['BT01_stairs_2_8_down_on_exo.csv']
+2025-10-15 10:49:45 - [BT01] stairs_2_8_down_on 找到的moment_filt文件：['BT01_stairs_2_8_down_on_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] stairs_2_8_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:45 - [BT01] jump_1_vertical_on 找到的exo文件：['BT01_jump_1_vertical_on_exo.csv']
+2025-10-15 10:49:45 - [BT01] jump_1_vertical_on 找到的moment_filt文件：['BT01_jump_1_vertical_on_moment_filt.csv']
+2025-10-15 10:49:45 - [BT01] jump_1_vertical_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:45 - [BT01] jump_1_vertical_on：修正 8 个字段的符号
+2025-10-15 10:49:45 - [BT01] jump_1_vertical_on：通过activity_flag筛选，保留 1962/3601 行数据
+2025-10-15 10:49:45 - [BT01] jump_1_vertical_on 成功：保存至 ./final_clean_data/BT01/jump_1_vertical_on
+2025-10-15 10:49:45 - [BT01] normal_walk_3_shuffle_off 找到的exo文件：['BT01_normal_walk_3_shuffle_off_exo.csv']
+2025-10-15 10:49:45 - [BT01] normal_walk_3_shuffle_off 找到的moment_filt文件：['BT01_normal_walk_3_shuffle_off_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] normal_walk_3_shuffle_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:46 - [BT01] normal_walk_3_shuffle_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:46 - [BT01] normal_walk_3_shuffle_off：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] normal_walk_3_shuffle_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:46 - [BT01] normal_walk_3_shuffle_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_shuffle_off
+2025-10-15 10:49:46 - [BT01] stairs_2_10_down_on 找到的exo文件：['BT01_stairs_2_10_down_on_exo.csv']
+2025-10-15 10:49:46 - [BT01] stairs_2_10_down_on 找到的moment_filt文件：['BT01_stairs_2_10_down_on_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] stairs_2_10_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:46 - [BT01] lift_weight_1_2_25lbs-l-c_off 找到的exo文件：['BT01_lift_weight_1_2_25lbs-l-c_off_exo.csv']
+2025-10-15 10:49:46 - [BT01] lift_weight_1_2_25lbs-l-c_off 找到的moment_filt文件：['BT01_lift_weight_1_2_25lbs-l-c_off_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] lift_weight_1_2_25lbs-l-c_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:46 - [BT01] lift_weight_1_2_25lbs-l-c_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:46 - [BT01] lift_weight_1_2_25lbs-l-c_off：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] lift_weight_1_2_25lbs-l-c_off：通过activity_flag筛选，保留 2243/3001 行数据
+2025-10-15 10:49:46 - [BT01] lift_weight_1_2_25lbs-l-c_off 成功：保存至 ./final_clean_data/BT01/lift_weight_1_2_25lbs-l-c_off
+2025-10-15 10:49:46 - [BT01] lift_weight_2_2_0lbs-r-r_off 找到的exo文件：['BT01_lift_weight_2_2_0lbs-r-r_off_exo.csv']
+2025-10-15 10:49:46 - [BT01] lift_weight_2_2_0lbs-r-r_off 找到的moment_filt文件：['BT01_lift_weight_2_2_0lbs-r-r_off_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] lift_weight_2_2_0lbs-r-r_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:46 - [BT01] lift_weight_2_2_0lbs-r-r_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:46 - [BT01] lift_weight_2_2_0lbs-r-r_off：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] lift_weight_2_2_0lbs-r-r_off：通过activity_flag筛选，保留 1899/3001 行数据
+2025-10-15 10:49:46 - [BT01] lift_weight_2_2_0lbs-r-r_off 成功：保存至 ./final_clean_data/BT01/lift_weight_2_2_0lbs-r-r_off
+2025-10-15 10:49:46 - [BT01] tire_run_1_off 找到的exo文件：['BT01_tire_run_1_off_exo.csv']
+2025-10-15 10:49:46 - [BT01] tire_run_1_off 找到的moment_filt文件：['BT01_tire_run_1_off_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] tire_run_1_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:46 - [BT01] lift_weight_2_0lbs-l-c_on 找到的exo文件：['BT01_lift_weight_2_0lbs-l-c_on_exo.csv']
+2025-10-15 10:49:46 - [BT01] lift_weight_2_0lbs-l-c_on 找到的moment_filt文件：['BT01_lift_weight_2_0lbs-l-c_on_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] lift_weight_2_0lbs-l-c_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:46 - [BT01] lift_weight_2_0lbs-l-c_on：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] lift_weight_2_0lbs-l-c_on：通过activity_flag筛选，保留 1949/3201 行数据
+2025-10-15 10:49:46 - [BT01] lift_weight_2_0lbs-l-c_on 成功：保存至 ./final_clean_data/BT01/lift_weight_2_0lbs-l-c_on
+2025-10-15 10:49:46 - [BT01] dynamic_walk_1_butt-kicks_on 找到的exo文件：['BT01_dynamic_walk_1_butt-kicks_on_exo.csv']
+2025-10-15 10:49:46 - [BT01] dynamic_walk_1_butt-kicks_on 找到的moment_filt文件：['BT01_dynamic_walk_1_butt-kicks_on_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] dynamic_walk_1_butt-kicks_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:46 - [BT01] dynamic_walk_1_butt-kicks_on：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] dynamic_walk_1_butt-kicks_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:46 - [BT01] dynamic_walk_1_butt-kicks_on 成功：保存至 ./final_clean_data/BT01/dynamic_walk_1_butt-kicks_on
+2025-10-15 10:49:46 - [BT01] push_1_off 找到的exo文件：['BT01_push_1_off_exo.csv']
+2025-10-15 10:49:46 - [BT01] push_1_off 找到的moment_filt文件：['BT01_push_1_off_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] push_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:46 - [BT01] push_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:46 - [BT01] push_1_off：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] push_1_off：通过activity_flag筛选，保留 12696/12696 行数据
+2025-10-15 10:49:46 - [BT01] push_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 10:49:46 - [BT01] ball_toss_1_right_on 找到的exo文件：['BT01_ball_toss_1_right_on_exo.csv']
+2025-10-15 10:49:46 - [BT01] ball_toss_1_right_on 找到的moment_filt文件：['BT01_ball_toss_1_right_on_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] ball_toss_1_right_on 有效腿：['left', 'right']
+2025-10-15 10:49:46 - [BT01] ball_toss_1_right_on：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] ball_toss_1_right_on：通过activity_flag筛选，保留 1122/3601 行数据
+2025-10-15 10:49:46 - [BT01] ball_toss_1_right_on 成功：保存至 ./final_clean_data/BT01/ball_toss_1_right_on
+2025-10-15 10:49:46 - [BT01] incline_walk_4_up5_off 找到的exo文件：['BT01_incline_walk_4_up5_off_exo.csv']
+2025-10-15 10:49:46 - [BT01] incline_walk_4_up5_off 找到的moment_filt文件：['BT01_incline_walk_4_up5_off_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] incline_walk_4_up5_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:46 - [BT01] incline_walk_4_up5_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:46 - [BT01] incline_walk_4_up5_off：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] incline_walk_4_up5_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:46 - [BT01] incline_walk_4_up5_off 成功：保存至 ./final_clean_data/BT01/incline_walk_4_up5_off
+2025-10-15 10:49:46 - [BT01] lunges_1_2_off 找到的exo文件：['BT01_lunges_1_2_off_exo.csv']
+2025-10-15 10:49:46 - [BT01] lunges_1_2_off 找到的moment_filt文件：['BT01_lunges_1_2_off_moment_filt.csv']
+2025-10-15 10:49:46 - [BT01] lunges_1_2_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:46 - [BT01] lunges_1_2_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:46 - [BT01] lunges_1_2_off：修正 8 个字段的符号
+2025-10-15 10:49:46 - [BT01] lunges_1_2_off：通过activity_flag筛选，保留 7672/13001 行数据
+2025-10-15 10:49:46 - [BT01] lunges_1_2_off 失败：同步后有效腿字段存在NaN
+2025-10-15 10:49:46 - [BT01] sit_to_stand_1_2_short-noarm_off 找到的exo文件：['BT01_sit_to_stand_1_2_short-noarm_off_exo.csv']
+2025-10-15 10:49:46 - [BT01] sit_to_stand_1_2_short-noarm_off 找到的moment_filt文件：['BT01_sit_to_stand_1_2_short-noarm_off_moment_filt.csv']
+2025-10-15 10:49:47 - [BT01] sit_to_stand_1_2_short-noarm_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:47 - [BT01] sit_to_stand_1_2_short-noarm_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:47 - [BT01] sit_to_stand_1_2_short-noarm_off：修正 8 个字段的符号
+2025-10-15 10:49:47 - [BT01] sit_to_stand_1_2_short-noarm_off：通过activity_flag筛选，保留 6885/17601 行数据
+2025-10-15 10:49:47 - [BT01] sit_to_stand_1_2_short-noarm_off 成功：保存至 ./final_clean_data/BT01/sit_to_stand_1_2_short-noarm_off
+2025-10-15 10:49:47 - [BT01] incline_walk_3_up5_on 找到的exo文件：['BT01_incline_walk_3_up5_on_exo.csv']
+2025-10-15 10:49:47 - [BT01] incline_walk_3_up5_on 找到的moment_filt文件：['BT01_incline_walk_3_up5_on_moment_filt.csv']
+2025-10-15 10:49:47 - [BT01] incline_walk_3_up5_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:47 - [BT01] incline_walk_3_up5_on：修正 8 个字段的符号
+2025-10-15 10:49:47 - [BT01] incline_walk_3_up5_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:47 - [BT01] incline_walk_3_up5_on 成功：保存至 ./final_clean_data/BT01/incline_walk_3_up5_on
+2025-10-15 10:49:47 - [BT01] incline_walk_5_up10_on 找到的exo文件：['BT01_incline_walk_5_up10_on_exo.csv']
+2025-10-15 10:49:47 - [BT01] incline_walk_5_up10_on 找到的moment_filt文件：['BT01_incline_walk_5_up10_on_moment_filt.csv']
+2025-10-15 10:49:47 - [BT01] incline_walk_5_up10_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:47 - [BT01] incline_walk_5_up10_on：修正 8 个字段的符号
+2025-10-15 10:49:47 - [BT01] incline_walk_5_up10_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:47 - [BT01] incline_walk_5_up10_on 成功：保存至 ./final_clean_data/BT01/incline_walk_5_up10_on
+2025-10-15 10:49:47 - [BT01] walk_backward_1_0-8_off 找到的exo文件：['BT01_walk_backward_1_0-8_off_exo.csv']
+2025-10-15 10:49:47 - [BT01] walk_backward_1_0-8_off 找到的moment_filt文件：['BT01_walk_backward_1_0-8_off_moment_filt.csv']
+2025-10-15 10:49:47 - [BT01] walk_backward_1_0-8_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:47 - [BT01] walk_backward_1_0-8_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:47 - [BT01] walk_backward_1_0-8_off：修正 8 个字段的符号
+2025-10-15 10:49:47 - [BT01] walk_backward_1_0-8_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:47 - [BT01] walk_backward_1_0-8_off 成功：保存至 ./final_clean_data/BT01/walk_backward_1_0-8_off
+2025-10-15 10:49:47 - [BT01] normal_walk_3_2-5_off 找到的exo文件：['BT01_normal_walk_3_2-5_off_exo.csv']
+2025-10-15 10:49:47 - [BT01] normal_walk_3_2-5_off 找到的moment_filt文件：['BT01_normal_walk_3_2-5_off_moment_filt.csv']
+2025-10-15 10:49:47 - [BT01] normal_walk_3_2-5_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:47 - [BT01] normal_walk_3_2-5_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:47 - [BT01] normal_walk_3_2-5_off：修正 8 个字段的符号
+2025-10-15 10:49:47 - [BT01] normal_walk_3_2-5_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:47 - [BT01] normal_walk_3_2-5_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_2-5_off
+2025-10-15 10:49:47 - [BT01] jump_3_2_90-f_off 找到的exo文件：['BT01_jump_3_2_90-f_off_exo.csv']
+2025-10-15 10:49:47 - [BT01] jump_3_2_90-f_off 找到的moment_filt文件：['BT01_jump_3_2_90-f_off_moment_filt.csv']
+2025-10-15 10:49:47 - [BT01] jump_3_2_90-f_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:47 - [BT01] jump_3_2_90-f_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:47 - [BT01] jump_3_2_90-f_off：修正 8 个字段的符号
+2025-10-15 10:49:47 - [BT01] jump_3_2_90-f_off：通过activity_flag筛选，保留 3686/4801 行数据
+2025-10-15 10:49:47 - [BT01] jump_3_2_90-f_off 成功：保存至 ./final_clean_data/BT01/jump_3_2_90-f_off
+2025-10-15 10:49:47 - [BT01] squats_1_25lbs_on 找到的exo文件：['BT01_squats_1_25lbs_on_exo.csv']
+2025-10-15 10:49:47 - [BT01] squats_1_25lbs_on 找到的moment_filt文件：['BT01_squats_1_25lbs_on_moment_filt.csv']
+2025-10-15 10:49:47 - [BT01] squats_1_25lbs_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:47 - [BT01] squats_1_25lbs_on：修正 8 个字段的符号
+2025-10-15 10:49:47 - [BT01] squats_1_25lbs_on：通过activity_flag筛选，保留 1934/3201 行数据
+2025-10-15 10:49:48 - [BT01] squats_1_25lbs_on 成功：保存至 ./final_clean_data/BT01/squats_1_25lbs_on
+2025-10-15 10:49:48 - [BT01] dynamic_walk_2_butt-kicks_off 找到的exo文件：['BT01_dynamic_walk_2_butt-kicks_off_exo.csv']
+2025-10-15 10:49:48 - [BT01] dynamic_walk_2_butt-kicks_off 找到的moment_filt文件：['BT01_dynamic_walk_2_butt-kicks_off_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] dynamic_walk_2_butt-kicks_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:48 - [BT01] dynamic_walk_2_butt-kicks_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:48 - [BT01] dynamic_walk_2_butt-kicks_off：修正 8 个字段的符号
+2025-10-15 10:49:48 - [BT01] dynamic_walk_2_butt-kicks_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:48 - [BT01] dynamic_walk_2_butt-kicks_off 成功：保存至 ./final_clean_data/BT01/dynamic_walk_2_butt-kicks_off
+2025-10-15 10:49:48 - [BT01] ball_toss_1_left_on 找到的exo文件：['BT01_ball_toss_1_left_on_exo.csv']
+2025-10-15 10:49:48 - [BT01] ball_toss_1_left_on 找到的moment_filt文件：['BT01_ball_toss_1_left_on_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] ball_toss_1_left_on 有效腿：['left', 'right']
+2025-10-15 10:49:48 - [BT01] ball_toss_1_left_on：修正 8 个字段的符号
+2025-10-15 10:49:48 - [BT01] ball_toss_1_left_on：通过activity_flag筛选，保留 1412/4201 行数据
+2025-10-15 10:49:48 - [BT01] ball_toss_1_left_on 成功：保存至 ./final_clean_data/BT01/ball_toss_1_left_on
+2025-10-15 10:49:48 - [BT01] turn_and_step_1_left-turn_off 找到的exo文件：['BT01_turn_and_step_1_left-turn_off_exo.csv']
+2025-10-15 10:49:48 - [BT01] turn_and_step_1_left-turn_off 找到的moment_filt文件：['BT01_turn_and_step_1_left-turn_off_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] turn_and_step_1_left-turn_off 失败：双腿力矩均有NaN
+2025-10-15 10:49:48 - [BT01] jump_2_2_lateral_off 找到的exo文件：['BT01_jump_2_2_lateral_off_exo.csv']
+2025-10-15 10:49:48 - [BT01] jump_2_2_lateral_off 找到的moment_filt文件：['BT01_jump_2_2_lateral_off_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] jump_2_2_lateral_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:48 - [BT01] jump_2_2_lateral_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:48 - [BT01] jump_2_2_lateral_off：修正 8 个字段的符号
+2025-10-15 10:49:48 - [BT01] jump_2_2_lateral_off：通过activity_flag筛选，保留 3388/4001 行数据
+2025-10-15 10:49:48 - [BT01] jump_2_2_lateral_off 成功：保存至 ./final_clean_data/BT01/jump_2_2_lateral_off
+2025-10-15 10:49:48 - [BT01] jump_2_lateral_on 找到的exo文件：['BT01_jump_2_lateral_on_exo.csv']
+2025-10-15 10:49:48 - [BT01] jump_2_lateral_on 找到的moment_filt文件：['BT01_jump_2_lateral_on_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] jump_2_lateral_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:48 - [BT01] jump_2_lateral_on：修正 8 个字段的符号
+2025-10-15 10:49:48 - [BT01] jump_2_lateral_on：通过activity_flag筛选，保留 3766/4801 行数据
+2025-10-15 10:49:48 - [BT01] jump_2_lateral_on 成功：保存至 ./final_clean_data/BT01/jump_2_lateral_on
+2025-10-15 10:49:48 - [BT01] jump_3_2_90-s_off 找到的exo文件：['BT01_jump_3_2_90-s_off_exo.csv']
+2025-10-15 10:49:48 - [BT01] jump_3_2_90-s_off 找到的moment_filt文件：['BT01_jump_3_2_90-s_off_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] jump_3_2_90-s_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:48 - [BT01] jump_3_2_90-s_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:48 - [BT01] jump_3_2_90-s_off：修正 8 个字段的符号
+2025-10-15 10:49:48 - [BT01] jump_3_2_90-s_off：通过activity_flag筛选，保留 3836/4801 行数据
+2025-10-15 10:49:48 - [BT01] jump_3_2_90-s_off 成功：保存至 ./final_clean_data/BT01/jump_3_2_90-s_off
+2025-10-15 10:49:48 - [BT01] squats_1_0lbs_on 找到的exo文件：['BT01_squats_1_0lbs_on_exo.csv']
+2025-10-15 10:49:48 - [BT01] squats_1_0lbs_on 找到的moment_filt文件：['BT01_squats_1_0lbs_on_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] squats_1_0lbs_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:48 - [BT01] squats_1_0lbs_on：修正 8 个字段的符号
+2025-10-15 10:49:48 - [BT01] squats_1_0lbs_on：通过activity_flag筛选，保留 1814/3201 行数据
+2025-10-15 10:49:48 - [BT01] squats_1_0lbs_on 成功：保存至 ./final_clean_data/BT01/squats_1_0lbs_on
+2025-10-15 10:49:48 - [BT01] walk_backward_1_1-0_on 找到的exo文件：['BT01_walk_backward_1_1-0_on_exo.csv']
+2025-10-15 10:49:48 - [BT01] walk_backward_1_1-0_on 找到的moment_filt文件：['BT01_walk_backward_1_1-0_on_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] walk_backward_1_1-0_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:48 - [BT01] walk_backward_1_1-0_on：修正 8 个字段的符号
+2025-10-15 10:49:48 - [BT01] walk_backward_1_1-0_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:48 - [BT01] walk_backward_1_1-0_on 成功：保存至 ./final_clean_data/BT01/walk_backward_1_1-0_on
+2025-10-15 10:49:48 - [BT01] stairs_2_6_down_on 找到的exo文件：['BT01_stairs_2_6_down_on_exo.csv']
+2025-10-15 10:49:48 - [BT01] stairs_2_6_down_on 找到的moment_filt文件：['BT01_stairs_2_6_down_on_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] stairs_2_6_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:48 - [BT01] curb_down_1_on 找到的exo文件：['BT01_curb_down_1_on_exo.csv']
+2025-10-15 10:49:48 - [BT01] curb_down_1_on 找到的moment_filt文件：['BT01_curb_down_1_on_moment_filt.csv']
+2025-10-15 10:49:48 - [BT01] curb_down_1_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:48 - [BT01] jump_1_2_vertical_off 找到的exo文件：['BT01_jump_1_2_vertical_off_exo.csv']
+2025-10-15 10:49:48 - [BT01] jump_1_2_vertical_off 找到的moment_filt文件：['BT01_jump_1_2_vertical_off_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] jump_1_2_vertical_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:49 - [BT01] jump_1_2_vertical_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:49 - [BT01] jump_1_2_vertical_off：修正 8 个字段的符号
+2025-10-15 10:49:49 - [BT01] jump_1_2_vertical_off：通过activity_flag筛选，保留 1704/3001 行数据
+2025-10-15 10:49:49 - [BT01] jump_1_2_vertical_off 成功：保存至 ./final_clean_data/BT01/jump_1_2_vertical_off
+2025-10-15 10:49:49 - [BT01] curb_up_1_2_off 找到的exo文件：['BT01_curb_up_1_2_off_exo.csv']
+2025-10-15 10:49:49 - [BT01] curb_up_1_2_off 找到的moment_filt文件：['BT01_curb_up_1_2_off_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] curb_up_1_2_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:49 - [BT01] normal_walk_3_skip_off 找到的exo文件：['BT01_normal_walk_3_skip_off_exo.csv']
+2025-10-15 10:49:49 - [BT01] normal_walk_3_skip_off 找到的moment_filt文件：['BT01_normal_walk_3_skip_off_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] normal_walk_3_skip_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:49 - [BT01] normal_walk_3_skip_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:49 - [BT01] normal_walk_3_skip_off：修正 8 个字段的符号
+2025-10-15 10:49:49 - [BT01] normal_walk_3_skip_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:49 - [BT01] normal_walk_3_skip_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_skip_off
+2025-10-15 10:49:49 - [BT01] cutting_1_left-fast_off 找到的exo文件：['BT01_cutting_1_left-fast_off_exo.csv']
+2025-10-15 10:49:49 - [BT01] cutting_1_left-fast_off 找到的moment_filt文件：['BT01_cutting_1_left-fast_off_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] cutting_1_left-fast_off 失败：双腿力矩均有NaN
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-0_on 找到的exo文件：['BT01_normal_walk_1_2-0_on_exo.csv']
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-0_on 找到的moment_filt文件：['BT01_normal_walk_1_2-0_on_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-0_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-0_on：修正 8 个字段的符号
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-0_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-0_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_2-0_on
+2025-10-15 10:49:49 - [BT01] turn_and_step_1_right-turn_off 找到的exo文件：['BT01_turn_and_step_1_right-turn_off_exo.csv']
+2025-10-15 10:49:49 - [BT01] turn_and_step_1_right-turn_off 找到的moment_filt文件：['BT01_turn_and_step_1_right-turn_off_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] turn_and_step_1_right-turn_off 失败：双腿力矩均有NaN
+2025-10-15 10:49:49 - [BT01] lunges_1_on 找到的exo文件：['BT01_lunges_1_on_exo.csv']
+2025-10-15 10:49:49 - [BT01] lunges_1_on 找到的moment_filt文件：['BT01_lunges_1_on_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] lunges_1_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:49 - [BT01] lunges_1_on：修正 8 个字段的符号
+2025-10-15 10:49:49 - [BT01] lunges_1_on：通过activity_flag筛选，保留 7996/15001 行数据
+2025-10-15 10:49:49 - [BT01] lunges_1_on 失败：同步后有效腿字段存在NaN
+2025-10-15 10:49:49 - [BT01] lift_weight_1_25lbs-l-c_on 找到的exo文件：['BT01_lift_weight_1_25lbs-l-c_on_exo.csv']
+2025-10-15 10:49:49 - [BT01] lift_weight_1_25lbs-l-c_on 找到的moment_filt文件：['BT01_lift_weight_1_25lbs-l-c_on_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] lift_weight_1_25lbs-l-c_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:49 - [BT01] lift_weight_1_25lbs-l-c_on：修正 8 个字段的符号
+2025-10-15 10:49:49 - [BT01] lift_weight_1_25lbs-l-c_on：通过activity_flag筛选，保留 2348/3401 行数据
+2025-10-15 10:49:49 - [BT01] lift_weight_1_25lbs-l-c_on 成功：保存至 ./final_clean_data/BT01/lift_weight_1_25lbs-l-c_on
+2025-10-15 10:49:49 - [BT01] stairs_1_5_up_on 找到的exo文件：['BT01_stairs_1_5_up_on_exo.csv']
+2025-10-15 10:49:49 - [BT01] stairs_1_5_up_on 找到的moment_filt文件：['BT01_stairs_1_5_up_on_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] stairs_1_5_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-5_on 找到的exo文件：['BT01_normal_walk_1_2-5_on_exo.csv']
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-5_on 找到的moment_filt文件：['BT01_normal_walk_1_2-5_on_moment_filt.csv']
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-5_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-5_on：修正 8 个字段的符号
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-5_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:49 - [BT01] normal_walk_1_2-5_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_2-5_on
+2025-10-15 10:49:49 - [BT01] start_stop_1_off 找到的exo文件：['BT01_start_stop_1_off_exo.csv']
+2025-10-15 10:49:49 - [BT01] start_stop_1_off 找到的moment_filt文件：['BT01_start_stop_1_off_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] start_stop_1_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:50 - [BT01] lift_weight_2_2_0lbs-l-c_off 找到的exo文件：['BT01_lift_weight_2_2_0lbs-l-c_off_exo.csv']
+2025-10-15 10:49:50 - [BT01] lift_weight_2_2_0lbs-l-c_off 找到的moment_filt文件：['BT01_lift_weight_2_2_0lbs-l-c_off_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] lift_weight_2_2_0lbs-l-c_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:50 - [BT01] lift_weight_2_2_0lbs-l-c_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:50 - [BT01] lift_weight_2_2_0lbs-l-c_off：修正 8 个字段的符号
+2025-10-15 10:49:50 - [BT01] lift_weight_2_2_0lbs-l-c_off：通过activity_flag筛选，保留 2012/3201 行数据
+2025-10-15 10:49:50 - [BT01] lift_weight_2_2_0lbs-l-c_off 成功：保存至 ./final_clean_data/BT01/lift_weight_2_2_0lbs-l-c_off
+2025-10-15 10:49:50 - [BT01] sit_to_stand_1_short-arm_on 找到的exo文件：['BT01_sit_to_stand_1_short-arm_on_exo.csv']
+2025-10-15 10:49:50 - [BT01] sit_to_stand_1_short-arm_on 找到的moment_filt文件：['BT01_sit_to_stand_1_short-arm_on_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] sit_to_stand_1_short-arm_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:50 - [BT01] sit_to_stand_1_short-arm_on：修正 8 个字段的符号
+2025-10-15 10:49:50 - [BT01] sit_to_stand_1_short-arm_on：通过activity_flag筛选，保留 7808/16001 行数据
+2025-10-15 10:49:50 - [BT01] sit_to_stand_1_short-arm_on 成功：保存至 ./final_clean_data/BT01/sit_to_stand_1_short-arm_on
+2025-10-15 10:49:50 - [BT01] weighted_walk_1_25lbs_on 找到的exo文件：['BT01_weighted_walk_1_25lbs_on_exo.csv']
+2025-10-15 10:49:50 - [BT01] weighted_walk_1_25lbs_on 找到的moment_filt文件：['BT01_weighted_walk_1_25lbs_on_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] weighted_walk_1_25lbs_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:50 - [BT01] weighted_walk_1_25lbs_on：修正 8 个字段的符号
+2025-10-15 10:49:50 - [BT01] weighted_walk_1_25lbs_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:50 - [BT01] weighted_walk_1_25lbs_on 成功：保存至 ./final_clean_data/BT01/weighted_walk_1_25lbs_on
+2025-10-15 10:49:50 - [BT01] side_shuffle_1_off 找到的exo文件：['BT01_side_shuffle_1_off_exo.csv']
+2025-10-15 10:49:50 - [BT01] side_shuffle_1_off 找到的moment_filt文件：['BT01_side_shuffle_1_off_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] side_shuffle_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:50 - [BT01] side_shuffle_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:50 - [BT01] side_shuffle_1_off：修正 8 个字段的符号
+2025-10-15 10:49:50 - [BT01] side_shuffle_1_off：通过activity_flag筛选，保留 1757/4189 行数据
+2025-10-15 10:49:50 - [BT01] side_shuffle_1_off 成功：保存至 ./final_clean_data/BT01/side_shuffle_1_off
+2025-10-15 10:49:50 - [BT01] lift_weight_1_2_25lbs-r-c_off 找到的exo文件：['BT01_lift_weight_1_2_25lbs-r-c_off_exo.csv']
+2025-10-15 10:49:50 - [BT01] lift_weight_1_2_25lbs-r-c_off 找到的moment_filt文件：['BT01_lift_weight_1_2_25lbs-r-c_off_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] lift_weight_1_2_25lbs-r-c_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:50 - [BT01] lift_weight_1_2_25lbs-r-c_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:50 - [BT01] lift_weight_1_2_25lbs-r-c_off：修正 8 个字段的符号
+2025-10-15 10:49:50 - [BT01] lift_weight_1_2_25lbs-r-c_off：通过activity_flag筛选，保留 2178/3201 行数据
+2025-10-15 10:49:50 - [BT01] lift_weight_1_2_25lbs-r-c_off 成功：保存至 ./final_clean_data/BT01/lift_weight_1_2_25lbs-r-c_off
+2025-10-15 10:49:50 - [BT01] meander_1_off 找到的exo文件：['BT01_meander_1_off_exo.csv']
+2025-10-15 10:49:50 - [BT01] meander_1_off 找到的moment_filt文件：['BT01_meander_1_off_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] meander_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:50 - [BT01] meander_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:50 - [BT01] meander_1_off：修正 8 个字段的符号
+2025-10-15 10:49:50 - [BT01] meander_1_off：通过activity_flag筛选，保留 13989/13989 行数据
+2025-10-15 10:49:50 - [BT01] meander_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 10:49:50 - [BT01] lunges_2_2_left_off 找到的exo文件：['BT01_lunges_2_2_left_off_exo.csv']
+2025-10-15 10:49:50 - [BT01] lunges_2_2_left_off 找到的moment_filt文件：['BT01_lunges_2_2_left_off_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] lunges_2_2_left_off 有效腿：['left', 'right']
+2025-10-15 10:49:50 - [BT01] lunges_2_2_left_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:50 - [BT01] lunges_2_2_left_off：修正 8 个字段的符号
+2025-10-15 10:49:50 - [BT01] lunges_2_2_left_off：通过activity_flag筛选，保留 1733/2801 行数据
+2025-10-15 10:49:50 - [BT01] lunges_2_2_left_off 成功：保存至 ./final_clean_data/BT01/lunges_2_2_left_off
+2025-10-15 10:49:50 - [BT01] normal_walk_3_1-2_off 找到的exo文件：['BT01_normal_walk_3_1-2_off_exo.csv']
+2025-10-15 10:49:50 - [BT01] normal_walk_3_1-2_off 找到的moment_filt文件：['BT01_normal_walk_3_1-2_off_moment_filt.csv']
+2025-10-15 10:49:50 - [BT01] normal_walk_3_1-2_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:50 - [BT01] normal_walk_3_1-2_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:50 - [BT01] normal_walk_3_1-2_off：修正 8 个字段的符号
+2025-10-15 10:49:50 - [BT01] normal_walk_3_1-2_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:51 - [BT01] normal_walk_3_1-2_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_1-2_off
+2025-10-15 10:49:51 - [BT01] walk_backward_1_0-6_off 找到的exo文件：['BT01_walk_backward_1_0-6_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] walk_backward_1_0-6_off 找到的moment_filt文件：['BT01_walk_backward_1_0-6_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] walk_backward_1_0-6_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:51 - [BT01] walk_backward_1_0-6_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:51 - [BT01] walk_backward_1_0-6_off：修正 8 个字段的符号
+2025-10-15 10:49:51 - [BT01] walk_backward_1_0-6_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:51 - [BT01] walk_backward_1_0-6_off 成功：保存至 ./final_clean_data/BT01/walk_backward_1_0-6_off
+2025-10-15 10:49:51 - [BT01] jump_1_2_fb_off 找到的exo文件：['BT01_jump_1_2_fb_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] jump_1_2_fb_off 找到的moment_filt文件：['BT01_jump_1_2_fb_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] jump_1_2_fb_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:51 - [BT01] jump_1_2_fb_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:51 - [BT01] jump_1_2_fb_off：修正 8 个字段的符号
+2025-10-15 10:49:51 - [BT01] jump_1_2_fb_off：通过activity_flag筛选，保留 2727/4601 行数据
+2025-10-15 10:49:51 - [BT01] jump_1_2_fb_off 成功：保存至 ./final_clean_data/BT01/jump_1_2_fb_off
+2025-10-15 10:49:51 - [BT01] jump_2_2_180_off 找到的exo文件：['BT01_jump_2_2_180_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] jump_2_2_180_off 找到的moment_filt文件：['BT01_jump_2_2_180_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] jump_2_2_180_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:51 - [BT01] jump_2_2_180_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:51 - [BT01] jump_2_2_180_off：修正 8 个字段的符号
+2025-10-15 10:49:51 - [BT01] jump_2_2_180_off：通过activity_flag筛选，保留 2264/3801 行数据
+2025-10-15 10:49:51 - [BT01] jump_2_2_180_off 成功：保存至 ./final_clean_data/BT01/jump_2_2_180_off
+2025-10-15 10:49:51 - [BT01] stairs_1_4_down_off 找到的exo文件：['BT01_stairs_1_4_down_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] stairs_1_4_down_off 找到的moment_filt文件：['BT01_stairs_1_4_down_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] stairs_1_4_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:51 - [BT01] obstacle_walk_1_off 找到的exo文件：['BT01_obstacle_walk_1_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] obstacle_walk_1_off 找到的moment_filt文件：['BT01_obstacle_walk_1_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] obstacle_walk_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:51 - [BT01] obstacle_walk_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:51 - [BT01] obstacle_walk_1_off：修正 8 个字段的符号
+2025-10-15 10:49:51 - [BT01] obstacle_walk_1_off：通过activity_flag筛选，保留 24433/26576 行数据
+2025-10-15 10:49:51 - [BT01] obstacle_walk_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 10:49:51 - [BT01] stairs_2_3_up_off 找到的exo文件：['BT01_stairs_2_3_up_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] stairs_2_3_up_off 找到的moment_filt文件：['BT01_stairs_2_3_up_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] stairs_2_3_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:51 - [BT01] stairs_2_7_up_off 找到的exo文件：['BT01_stairs_2_7_up_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] stairs_2_7_up_off 找到的moment_filt文件：['BT01_stairs_2_7_up_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] stairs_2_7_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:51 - [BT01] ball_toss_1_center_on 找到的exo文件：['BT01_ball_toss_1_center_on_exo.csv']
+2025-10-15 10:49:51 - [BT01] ball_toss_1_center_on 找到的moment_filt文件：['BT01_ball_toss_1_center_on_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] ball_toss_1_center_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:51 - [BT01] ball_toss_1_center_on：修正 8 个字段的符号
+2025-10-15 10:49:51 - [BT01] ball_toss_1_center_on：通过activity_flag筛选，保留 1282/4401 行数据
+2025-10-15 10:49:51 - [BT01] ball_toss_1_center_on 成功：保存至 ./final_clean_data/BT01/ball_toss_1_center_on
+2025-10-15 10:49:51 - [BT01] lunges_2_right_on 找到的exo文件：['BT01_lunges_2_right_on_exo.csv']
+2025-10-15 10:49:51 - [BT01] lunges_2_right_on 找到的moment_filt文件：['BT01_lunges_2_right_on_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] lunges_2_right_on 有效腿：['left', 'right']
+2025-10-15 10:49:51 - [BT01] lunges_2_right_on：修正 8 个字段的符号
+2025-10-15 10:49:51 - [BT01] lunges_2_right_on：通过activity_flag筛选，保留 1921/3601 行数据
+2025-10-15 10:49:51 - [BT01] lunges_2_right_on 成功：保存至 ./final_clean_data/BT01/lunges_2_right_on
+2025-10-15 10:49:51 - [BT01] incline_walk_6_down10_off 找到的exo文件：['BT01_incline_walk_6_down10_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] incline_walk_6_down10_off 找到的moment_filt文件：['BT01_incline_walk_6_down10_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] incline_walk_6_down10_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:51 - [BT01] cutting_1_right-fast_off 找到的exo文件：['BT01_cutting_1_right-fast_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] cutting_1_right-fast_off 找到的moment_filt文件：['BT01_cutting_1_right-fast_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] cutting_1_right-fast_off 失败：双腿力矩均有NaN
+2025-10-15 10:49:51 - [BT01] tug_of_war_2_off 找到的exo文件：['BT01_tug_of_war_2_off_exo.csv']
+2025-10-15 10:49:51 - [BT01] tug_of_war_2_off 找到的moment_filt文件：['BT01_tug_of_war_2_off_moment_filt.csv']
+2025-10-15 10:49:51 - [BT01] tug_of_war_2_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:51 - [BT01] tug_of_war_2_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:51 - [BT01] tug_of_war_2_off：修正 8 个字段的符号
+2025-10-15 10:49:51 - [BT01] tug_of_war_2_off：通过activity_flag筛选，保留 12092/12092 行数据
+2025-10-15 10:49:52 - [BT01] tug_of_war_2_off 成功：保存至 ./final_clean_data/BT01/tug_of_war_2_off
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_2_short-arm_off 找到的exo文件：['BT01_sit_to_stand_1_2_short-arm_off_exo.csv']
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_2_short-arm_off 找到的moment_filt文件：['BT01_sit_to_stand_1_2_short-arm_off_moment_filt.csv']
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_2_short-arm_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_2_short-arm_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_2_short-arm_off：修正 8 个字段的符号
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_2_short-arm_off：通过activity_flag筛选，保留 7110/17001 行数据
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_2_short-arm_off 成功：保存至 ./final_clean_data/BT01/sit_to_stand_1_2_short-arm_off
+2025-10-15 10:49:52 - [BT01] jump_1_2_hop_off 找到的exo文件：['BT01_jump_1_2_hop_off_exo.csv']
+2025-10-15 10:49:52 - [BT01] jump_1_2_hop_off 找到的moment_filt文件：['BT01_jump_1_2_hop_off_moment_filt.csv']
+2025-10-15 10:49:52 - [BT01] jump_1_2_hop_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:52 - [BT01] jump_1_2_hop_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:52 - [BT01] jump_1_2_hop_off：修正 8 个字段的符号
+2025-10-15 10:49:52 - [BT01] jump_1_2_hop_off：通过activity_flag筛选，保留 1535/1601 行数据
+2025-10-15 10:49:52 - [BT01] jump_1_2_hop_off 成功：保存至 ./final_clean_data/BT01/jump_1_2_hop_off
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_short-noarm_on 找到的exo文件：['BT01_sit_to_stand_1_short-noarm_on_exo.csv']
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_short-noarm_on 找到的moment_filt文件：['BT01_sit_to_stand_1_short-noarm_on_moment_filt.csv']
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_short-noarm_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_short-noarm_on：修正 8 个字段的符号
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_short-noarm_on：通过activity_flag筛选，保留 6669/16401 行数据
+2025-10-15 10:49:52 - [BT01] sit_to_stand_1_short-noarm_on 成功：保存至 ./final_clean_data/BT01/sit_to_stand_1_short-noarm_on
+2025-10-15 10:49:52 - [BT01] jump_1_fb_on 找到的exo文件：['BT01_jump_1_fb_on_exo.csv']
+2025-10-15 10:49:52 - [BT01] jump_1_fb_on 找到的moment_filt文件：['BT01_jump_1_fb_on_moment_filt.csv']
+2025-10-15 10:49:52 - [BT01] jump_1_fb_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:52 - [BT01] jump_1_fb_on：修正 8 个字段的符号
+2025-10-15 10:49:52 - [BT01] jump_1_fb_on：通过activity_flag筛选，保留 3226/6201 行数据
+2025-10-15 10:49:53 - [BT01] jump_1_fb_on 成功：保存至 ./final_clean_data/BT01/jump_1_fb_on
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-l-l_on 找到的exo文件：['BT01_lift_weight_1_25lbs-l-l_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-l-l_on 找到的moment_filt文件：['BT01_lift_weight_1_25lbs-l-l_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-l-l_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-l-l_on：修正 8 个字段的符号
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-l-l_on：通过activity_flag筛选，保留 2171/3001 行数据
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-l-l_on 成功：保存至 ./final_clean_data/BT01/lift_weight_1_25lbs-l-l_on
+2025-10-15 10:49:53 - [BT01] normal_walk_3_1-8_off 找到的exo文件：['BT01_normal_walk_3_1-8_off_exo.csv']
+2025-10-15 10:49:53 - [BT01] normal_walk_3_1-8_off 找到的moment_filt文件：['BT01_normal_walk_3_1-8_off_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] normal_walk_3_1-8_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:53 - [BT01] normal_walk_3_1-8_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:53 - [BT01] normal_walk_3_1-8_off：修正 8 个字段的符号
+2025-10-15 10:49:53 - [BT01] normal_walk_3_1-8_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:53 - [BT01] normal_walk_3_1-8_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_1-8_off
+2025-10-15 10:49:53 - [BT01] incline_walk_4_down5_off 找到的exo文件：['BT01_incline_walk_4_down5_off_exo.csv']
+2025-10-15 10:49:53 - [BT01] incline_walk_4_down5_off 找到的moment_filt文件：['BT01_incline_walk_4_down5_off_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] incline_walk_4_down5_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:53 - [BT01] squats_2_25lbs_off 找到的exo文件：['BT01_squats_2_25lbs_off_exo.csv']
+2025-10-15 10:49:53 - [BT01] squats_2_25lbs_off 找到的moment_filt文件：['BT01_squats_2_25lbs_off_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] squats_2_25lbs_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:53 - [BT01] squats_2_25lbs_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:53 - [BT01] squats_2_25lbs_off：修正 8 个字段的符号
+2025-10-15 10:49:53 - [BT01] squats_2_25lbs_off：通过activity_flag筛选，保留 1908/3001 行数据
+2025-10-15 10:49:53 - [BT01] squats_2_25lbs_off 成功：保存至 ./final_clean_data/BT01/squats_2_25lbs_off
+2025-10-15 10:49:53 - [BT01] stairs_1_1_up_on 找到的exo文件：['BT01_stairs_1_1_up_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] stairs_1_1_up_on 找到的moment_filt文件：['BT01_stairs_1_1_up_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] stairs_1_1_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:53 - [BT01] normal_walk_1_0-6_on 找到的exo文件：['BT01_normal_walk_1_0-6_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] normal_walk_1_0-6_on 找到的moment_filt文件：['BT01_normal_walk_1_0-6_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] normal_walk_1_0-6_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:53 - [BT01] normal_walk_1_0-6_on：修正 8 个字段的符号
+2025-10-15 10:49:53 - [BT01] normal_walk_1_0-6_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:53 - [BT01] normal_walk_1_0-6_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_0-6_on
+2025-10-15 10:49:53 - [BT01] stairs_2_2_down_on 找到的exo文件：['BT01_stairs_2_2_down_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] stairs_2_2_down_on 找到的moment_filt文件：['BT01_stairs_2_2_down_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] stairs_2_2_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:53 - [BT01] stairs_2_1_up_off 找到的exo文件：['BT01_stairs_2_1_up_off_exo.csv']
+2025-10-15 10:49:53 - [BT01] stairs_2_1_up_off 找到的moment_filt文件：['BT01_stairs_2_1_up_off_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] stairs_2_1_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:53 - [BT01] stairs_2_4_down_on 找到的exo文件：['BT01_stairs_2_4_down_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] stairs_2_4_down_on 找到的moment_filt文件：['BT01_stairs_2_4_down_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] stairs_2_4_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:53 - [BT01] lift_weight_2_2_0lbs-l-l_off 找到的exo文件：['BT01_lift_weight_2_2_0lbs-l-l_off_exo.csv']
+2025-10-15 10:49:53 - [BT01] lift_weight_2_2_0lbs-l-l_off 找到的moment_filt文件：['BT01_lift_weight_2_2_0lbs-l-l_off_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] lift_weight_2_2_0lbs-l-l_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:53 - [BT01] lift_weight_2_2_0lbs-l-l_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:53 - [BT01] lift_weight_2_2_0lbs-l-l_off：修正 8 个字段的符号
+2025-10-15 10:49:53 - [BT01] lift_weight_2_2_0lbs-l-l_off：通过activity_flag筛选，保留 2022/3001 行数据
+2025-10-15 10:49:53 - [BT01] lift_weight_2_2_0lbs-l-l_off 成功：保存至 ./final_clean_data/BT01/lift_weight_2_2_0lbs-l-l_off
+2025-10-15 10:49:53 - [BT01] stairs_1_2_down_off 找到的exo文件：['BT01_stairs_1_2_down_off_exo.csv']
+2025-10-15 10:49:53 - [BT01] stairs_1_2_down_off 找到的moment_filt文件：['BT01_stairs_1_2_down_off_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] stairs_1_2_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:53 - [BT01] dynamic_walk_1_high-knees_on 找到的exo文件：['BT01_dynamic_walk_1_high-knees_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] dynamic_walk_1_high-knees_on 找到的moment_filt文件：['BT01_dynamic_walk_1_high-knees_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] dynamic_walk_1_high-knees_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:53 - [BT01] dynamic_walk_1_high-knees_on：修正 8 个字段的符号
+2025-10-15 10:49:53 - [BT01] dynamic_walk_1_high-knees_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:53 - [BT01] dynamic_walk_1_high-knees_on 成功：保存至 ./final_clean_data/BT01/dynamic_walk_1_high-knees_on
+2025-10-15 10:49:53 - [BT01] stairs_1_7_up_on 找到的exo文件：['BT01_stairs_1_7_up_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] stairs_1_7_up_on 找到的moment_filt文件：['BT01_stairs_1_7_up_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] stairs_1_7_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:53 - [BT01] cutting_1_left-slow_off 找到的exo文件：['BT01_cutting_1_left-slow_off_exo.csv']
+2025-10-15 10:49:53 - [BT01] cutting_1_left-slow_off 找到的moment_filt文件：['BT01_cutting_1_left-slow_off_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] cutting_1_left-slow_off 失败：双腿力矩均有NaN
+2025-10-15 10:49:53 - [BT01] walk_backward_1_0-8_on 找到的exo文件：['BT01_walk_backward_1_0-8_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] walk_backward_1_0-8_on 找到的moment_filt文件：['BT01_walk_backward_1_0-8_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] walk_backward_1_0-8_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:53 - [BT01] walk_backward_1_0-8_on：修正 8 个字段的符号
+2025-10-15 10:49:53 - [BT01] walk_backward_1_0-8_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:53 - [BT01] walk_backward_1_0-8_on 成功：保存至 ./final_clean_data/BT01/walk_backward_1_0-8_on
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-r-r_on 找到的exo文件：['BT01_lift_weight_1_25lbs-r-r_on_exo.csv']
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-r-r_on 找到的moment_filt文件：['BT01_lift_weight_1_25lbs-r-r_on_moment_filt.csv']
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-r-r_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-r-r_on：修正 8 个字段的符号
+2025-10-15 10:49:53 - [BT01] lift_weight_1_25lbs-r-r_on：通过activity_flag筛选，保留 2096/3601 行数据
+2025-10-15 10:49:54 - [BT01] lift_weight_1_25lbs-r-r_on 成功：保存至 ./final_clean_data/BT01/lift_weight_1_25lbs-r-r_on
+2025-10-15 10:49:54 - [BT01] cutting_1_right-slow_off 找到的exo文件：['BT01_cutting_1_right-slow_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] cutting_1_right-slow_off 找到的moment_filt文件：['BT01_cutting_1_right-slow_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] cutting_1_right-slow_off 失败：双腿力矩均有NaN
+2025-10-15 10:49:54 - [BT01] lift_weight_1_2_25lbs-l-l_off 找到的exo文件：['BT01_lift_weight_1_2_25lbs-l-l_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] lift_weight_1_2_25lbs-l-l_off 找到的moment_filt文件：['BT01_lift_weight_1_2_25lbs-l-l_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] lift_weight_1_2_25lbs-l-l_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:54 - [BT01] lift_weight_1_2_25lbs-l-l_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:54 - [BT01] lift_weight_1_2_25lbs-l-l_off：修正 8 个字段的符号
+2025-10-15 10:49:54 - [BT01] lift_weight_1_2_25lbs-l-l_off：通过activity_flag筛选，保留 2179/2801 行数据
+2025-10-15 10:49:54 - [BT01] lift_weight_1_2_25lbs-l-l_off 成功：保存至 ./final_clean_data/BT01/lift_weight_1_2_25lbs-l-l_off
+2025-10-15 10:49:54 - [BT01] stairs_2_9_up_off 找到的exo文件：['BT01_stairs_2_9_up_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] stairs_2_9_up_off 找到的moment_filt文件：['BT01_stairs_2_9_up_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] stairs_2_9_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:54 - [BT01] walk_backward_1_1-0_off 找到的exo文件：['BT01_walk_backward_1_1-0_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] walk_backward_1_1-0_off 找到的moment_filt文件：['BT01_walk_backward_1_1-0_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] walk_backward_1_1-0_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:54 - [BT01] walk_backward_1_1-0_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:54 - [BT01] walk_backward_1_1-0_off：修正 8 个字段的符号
+2025-10-15 10:49:54 - [BT01] walk_backward_1_1-0_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:54 - [BT01] walk_backward_1_1-0_off 成功：保存至 ./final_clean_data/BT01/walk_backward_1_1-0_off
+2025-10-15 10:49:54 - [BT01] stairs_1_8_down_off 找到的exo文件：['BT01_stairs_1_8_down_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] stairs_1_8_down_off 找到的moment_filt文件：['BT01_stairs_1_8_down_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] stairs_1_8_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:54 - [BT01] stairs_2_5_up_off 找到的exo文件：['BT01_stairs_2_5_up_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] stairs_2_5_up_off 找到的moment_filt文件：['BT01_stairs_2_5_up_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] stairs_2_5_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:54 - [BT01] normal_walk_3_0-6_off 找到的exo文件：['BT01_normal_walk_3_0-6_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] normal_walk_3_0-6_off 找到的moment_filt文件：['BT01_normal_walk_3_0-6_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] normal_walk_3_0-6_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 10:49:54 - [BT01] normal_walk_3_0-6_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:54 - [BT01] normal_walk_3_0-6_off：修正 8 个字段的符号
+2025-10-15 10:49:54 - [BT01] normal_walk_3_0-6_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 10:49:54 - [BT01] normal_walk_3_0-6_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_0-6_off
+2025-10-15 10:49:54 - [BT01] stairs_1_3_up_on 找到的exo文件：['BT01_stairs_1_3_up_on_exo.csv']
+2025-10-15 10:49:54 - [BT01] stairs_1_3_up_on 找到的moment_filt文件：['BT01_stairs_1_3_up_on_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] stairs_1_3_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:54 - [BT01] curb_up_1_on 找到的exo文件：['BT01_curb_up_1_on_exo.csv']
+2025-10-15 10:49:54 - [BT01] curb_up_1_on 找到的moment_filt文件：['BT01_curb_up_1_on_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] curb_up_1_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:54 - [BT01] jump_1_hop_on 找到的exo文件：['BT01_jump_1_hop_on_exo.csv']
+2025-10-15 10:49:54 - [BT01] jump_1_hop_on 找到的moment_filt文件：['BT01_jump_1_hop_on_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] jump_1_hop_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:54 - [BT01] jump_1_hop_on：修正 8 个字段的符号
+2025-10-15 10:49:54 - [BT01] jump_1_hop_on：通过activity_flag筛选，保留 1304/2401 行数据
+2025-10-15 10:49:54 - [BT01] jump_1_hop_on 成功：保存至 ./final_clean_data/BT01/jump_1_hop_on
+2025-10-15 10:49:54 - [BT01] step_ups_1_left_off 找到的exo文件：['BT01_step_ups_1_left_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] step_ups_1_left_off 找到的moment_filt文件：['BT01_step_ups_1_left_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] step_ups_1_left_off 有效腿：['left', 'right']
+2025-10-15 10:49:54 - [BT01] step_ups_1_left_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:54 - [BT01] step_ups_1_left_off：修正 8 个字段的符号
+2025-10-15 10:49:54 - [BT01] step_ups_1_left_off：通过activity_flag筛选，保留 1636/4201 行数据
+2025-10-15 10:49:54 - [BT01] step_ups_1_left_off 成功：保存至 ./final_clean_data/BT01/step_ups_1_left_off
+2025-10-15 10:49:54 - [BT01] lift_weight_2_2_0lbs-r-c_off 找到的exo文件：['BT01_lift_weight_2_2_0lbs-r-c_off_exo.csv']
+2025-10-15 10:49:54 - [BT01] lift_weight_2_2_0lbs-r-c_off 找到的moment_filt文件：['BT01_lift_weight_2_2_0lbs-r-c_off_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] lift_weight_2_2_0lbs-r-c_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:54 - [BT01] lift_weight_2_2_0lbs-r-c_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 10:49:54 - [BT01] lift_weight_2_2_0lbs-r-c_off：修正 8 个字段的符号
+2025-10-15 10:49:54 - [BT01] lift_weight_2_2_0lbs-r-c_off：通过activity_flag筛选，保留 2094/3001 行数据
+2025-10-15 10:49:54 - [BT01] lift_weight_2_2_0lbs-r-c_off 成功：保存至 ./final_clean_data/BT01/lift_weight_2_2_0lbs-r-c_off
+2025-10-15 10:49:54 - [BT01] jump_3_90-f_on 找到的exo文件：['BT01_jump_3_90-f_on_exo.csv']
+2025-10-15 10:49:54 - [BT01] jump_3_90-f_on 找到的moment_filt文件：['BT01_jump_3_90-f_on_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] jump_3_90-f_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:54 - [BT01] jump_3_90-f_on：修正 8 个字段的符号
+2025-10-15 10:49:54 - [BT01] jump_3_90-f_on：通过activity_flag筛选，保留 3923/5201 行数据
+2025-10-15 10:49:54 - [BT01] jump_3_90-f_on 成功：保存至 ./final_clean_data/BT01/jump_3_90-f_on
+2025-10-15 10:49:54 - [BT01] jump_3_90-s_on 找到的exo文件：['BT01_jump_3_90-s_on_exo.csv']
+2025-10-15 10:49:54 - [BT01] jump_3_90-s_on 找到的moment_filt文件：['BT01_jump_3_90-s_on_moment_filt.csv']
+2025-10-15 10:49:54 - [BT01] jump_3_90-s_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:54 - [BT01] jump_3_90-s_on：修正 8 个字段的符号
+2025-10-15 10:49:54 - [BT01] jump_3_90-s_on：通过activity_flag筛选，保留 4132/5201 行数据
+2025-10-15 10:49:55 - [BT01] jump_3_90-s_on 成功：保存至 ./final_clean_data/BT01/jump_3_90-s_on
+2025-10-15 10:49:55 - [BT01] lift_weight_2_0lbs-r-r_on 找到的exo文件：['BT01_lift_weight_2_0lbs-r-r_on_exo.csv']
+2025-10-15 10:49:55 - [BT01] lift_weight_2_0lbs-r-r_on 找到的moment_filt文件：['BT01_lift_weight_2_0lbs-r-r_on_moment_filt.csv']
+2025-10-15 10:49:55 - [BT01] lift_weight_2_0lbs-r-r_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 10:49:55 - [BT01] lift_weight_2_0lbs-r-r_on：修正 8 个字段的符号
+2025-10-15 10:49:55 - [BT01] lift_weight_2_0lbs-r-r_on：通过activity_flag筛选，保留 1870/3001 行数据
+2025-10-15 10:49:55 - [BT01] lift_weight_2_0lbs-r-r_on 成功：保存至 ./final_clean_data/BT01/lift_weight_2_0lbs-r-r_on
+2025-10-15 10:49:55 - [BT01] incline_walk_3_down5_on 找到的exo文件：['BT01_incline_walk_3_down5_on_exo.csv']
+2025-10-15 10:49:55 - [BT01] incline_walk_3_down5_on 找到的moment_filt文件：['BT01_incline_walk_3_down5_on_moment_filt.csv']
+2025-10-15 10:49:55 - [BT01] incline_walk_3_down5_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 10:49:55 - 批量处理完成：成功/跳过 115/128，失败 13/128，其他跳过 0/128，跳过无效受试者0个
+2025-10-15 20:48:54 - [BT01] poses_1_off 找到的exo文件：['BT01_poses_1_off_exo.csv']
+2025-10-15 20:48:54 - [BT01] poses_1_off 找到的moment_filt文件：['BT01_poses_1_off_moment_filt.csv']
+2025-10-15 20:48:54 - [BT01] poses_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:54 - [BT01] poses_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:54 - [BT01] poses_1_off：修正 8 个字段的符号
+2025-10-15 20:48:54 - [BT01] poses_1_off：通过activity_flag筛选，保留 19856/19856 行数据
+2025-10-15 20:48:54 - [BT01] poses_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 20:48:54 - [BT01] curb_down_1_2_off 找到的exo文件：['BT01_curb_down_1_2_off_exo.csv']
+2025-10-15 20:48:54 - [BT01] curb_down_1_2_off 找到的moment_filt文件：['BT01_curb_down_1_2_off_moment_filt.csv']
+2025-10-15 20:48:54 - [BT01] curb_down_1_2_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:48:54 - [BT01] lift_weight_2_0lbs-r-c_on 找到的exo文件：['BT01_lift_weight_2_0lbs-r-c_on_exo.csv']
+2025-10-15 20:48:54 - [BT01] lift_weight_2_0lbs-r-c_on 找到的moment_filt文件：['BT01_lift_weight_2_0lbs-r-c_on_moment_filt.csv']
+2025-10-15 20:48:54 - [BT01] lift_weight_2_0lbs-r-c_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:54 - [BT01] lift_weight_2_0lbs-r-c_on：修正 8 个字段的符号
+2025-10-15 20:48:54 - [BT01] lift_weight_2_0lbs-r-c_on：通过activity_flag筛选，保留 1911/3001 行数据
+2025-10-15 20:48:54 - [BT01] lift_weight_2_0lbs-r-c_on 成功：保存至 ./final_clean_data/BT01/lift_weight_2_0lbs-r-c_on
+2025-10-15 20:48:54 - [BT01] walk_backward_1_0-6_on 找到的exo文件：['BT01_walk_backward_1_0-6_on_exo.csv']
+2025-10-15 20:48:54 - [BT01] walk_backward_1_0-6_on 找到的moment_filt文件：['BT01_walk_backward_1_0-6_on_moment_filt.csv']
+2025-10-15 20:48:54 - [BT01] walk_backward_1_0-6_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:54 - [BT01] walk_backward_1_0-6_on：修正 8 个字段的符号
+2025-10-15 20:48:54 - [BT01] walk_backward_1_0-6_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:54 - [BT01] walk_backward_1_0-6_on 成功：保存至 ./final_clean_data/BT01/walk_backward_1_0-6_on
+2025-10-15 20:48:54 - [BT01] lunges_2_2_right_off 找到的exo文件：['BT01_lunges_2_2_right_off_exo.csv']
+2025-10-15 20:48:54 - [BT01] lunges_2_2_right_off 找到的moment_filt文件：['BT01_lunges_2_2_right_off_moment_filt.csv']
+2025-10-15 20:48:54 - [BT01] lunges_2_2_right_off 有效腿：['left', 'right']
+2025-10-15 20:48:54 - [BT01] lunges_2_2_right_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:54 - [BT01] lunges_2_2_right_off：修正 8 个字段的符号
+2025-10-15 20:48:54 - [BT01] lunges_2_2_right_off：通过activity_flag筛选，保留 1680/3001 行数据
+2025-10-15 20:48:54 - [BT01] lunges_2_2_right_off 成功：保存至 ./final_clean_data/BT01/lunges_2_2_right_off
+2025-10-15 20:48:54 - [BT01] jump_2_180_on 找到的exo文件：['BT01_jump_2_180_on_exo.csv']
+2025-10-15 20:48:54 - [BT01] jump_2_180_on 找到的moment_filt文件：['BT01_jump_2_180_on_moment_filt.csv']
+2025-10-15 20:48:54 - [BT01] jump_2_180_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:54 - [BT01] jump_2_180_on：修正 8 个字段的符号
+2025-10-15 20:48:54 - [BT01] jump_2_180_on：通过activity_flag筛选，保留 2296/3401 行数据
+2025-10-15 20:48:55 - [BT01] jump_2_180_on 成功：保存至 ./final_clean_data/BT01/jump_2_180_on
+2025-10-15 20:48:55 - [BT01] incline_walk_6_up10_off 找到的exo文件：['BT01_incline_walk_6_up10_off_exo.csv']
+2025-10-15 20:48:55 - [BT01] incline_walk_6_up10_off 找到的moment_filt文件：['BT01_incline_walk_6_up10_off_moment_filt.csv']
+2025-10-15 20:48:55 - [BT01] incline_walk_6_up10_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:55 - [BT01] incline_walk_6_up10_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:55 - [BT01] incline_walk_6_up10_off：修正 8 个字段的符号
+2025-10-15 20:48:55 - [BT01] incline_walk_6_up10_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:55 - [BT01] incline_walk_6_up10_off 成功：保存至 ./final_clean_data/BT01/incline_walk_6_up10_off
+2025-10-15 20:48:55 - [BT01] lift_weight_2_0lbs-l-l_on 找到的exo文件：['BT01_lift_weight_2_0lbs-l-l_on_exo.csv']
+2025-10-15 20:48:55 - [BT01] lift_weight_2_0lbs-l-l_on 找到的moment_filt文件：['BT01_lift_weight_2_0lbs-l-l_on_moment_filt.csv']
+2025-10-15 20:48:55 - [BT01] lift_weight_2_0lbs-l-l_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:55 - [BT01] lift_weight_2_0lbs-l-l_on：修正 8 个字段的符号
+2025-10-15 20:48:55 - [BT01] lift_weight_2_0lbs-l-l_on：通过activity_flag筛选，保留 2027/3201 行数据
+2025-10-15 20:48:55 - [BT01] lift_weight_2_0lbs-l-l_on 成功：保存至 ./final_clean_data/BT01/lift_weight_2_0lbs-l-l_on
+2025-10-15 20:48:55 - [BT01] squats_2_0lbs_off 找到的exo文件：['BT01_squats_2_0lbs_off_exo.csv']
+2025-10-15 20:48:55 - [BT01] squats_2_0lbs_off 找到的moment_filt文件：['BT01_squats_2_0lbs_off_moment_filt.csv']
+2025-10-15 20:48:55 - [BT01] squats_2_0lbs_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:55 - [BT01] squats_2_0lbs_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:55 - [BT01] squats_2_0lbs_off：修正 8 个字段的符号
+2025-10-15 20:48:55 - [BT01] squats_2_0lbs_off：通过activity_flag筛选，保留 1772/2601 行数据
+2025-10-15 20:48:55 - [BT01] squats_2_0lbs_off 成功：保存至 ./final_clean_data/BT01/squats_2_0lbs_off
+2025-10-15 20:48:55 - [BT01] tug_of_war_1_on 找到的exo文件：['BT01_tug_of_war_1_on_exo.csv']
+2025-10-15 20:48:55 - [BT01] tug_of_war_1_on 找到的moment_filt文件：['BT01_tug_of_war_1_on_moment_filt.csv']
+2025-10-15 20:48:55 - [BT01] tug_of_war_1_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:55 - [BT01] tug_of_war_1_on：修正 8 个字段的符号
+2025-10-15 20:48:55 - [BT01] tug_of_war_1_on：通过activity_flag筛选，保留 13199/13199 行数据
+2025-10-15 20:48:55 - [BT01] tug_of_war_1_on 成功：保存至 ./final_clean_data/BT01/tug_of_war_1_on
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_left_off 找到的exo文件：['BT01_ball_toss_1_2_left_off_exo.csv']
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_left_off 找到的moment_filt文件：['BT01_ball_toss_1_2_left_off_moment_filt.csv']
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_left_off 有效腿：['left', 'right']
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_left_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_left_off：修正 8 个字段的符号
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_left_off：通过activity_flag筛选，保留 1045/3401 行数据
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_left_off 成功：保存至 ./final_clean_data/BT01/ball_toss_1_2_left_off
+2025-10-15 20:48:55 - [BT01] lunges_2_left_on 找到的exo文件：['BT01_lunges_2_left_on_exo.csv']
+2025-10-15 20:48:55 - [BT01] lunges_2_left_on 找到的moment_filt文件：['BT01_lunges_2_left_on_moment_filt.csv']
+2025-10-15 20:48:55 - [BT01] lunges_2_left_on 有效腿：['left', 'right']
+2025-10-15 20:48:55 - [BT01] lunges_2_left_on：修正 8 个字段的符号
+2025-10-15 20:48:55 - [BT01] lunges_2_left_on：通过activity_flag筛选，保留 1682/3401 行数据
+2025-10-15 20:48:55 - [BT01] lunges_2_left_on 成功：保存至 ./final_clean_data/BT01/lunges_2_left_on
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_center_off 找到的exo文件：['BT01_ball_toss_1_2_center_off_exo.csv']
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_center_off 找到的moment_filt文件：['BT01_ball_toss_1_2_center_off_moment_filt.csv']
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_center_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_center_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_center_off：修正 8 个字段的符号
+2025-10-15 20:48:55 - [BT01] ball_toss_1_2_center_off：通过activity_flag筛选，保留 1368/3801 行数据
+2025-10-15 20:48:56 - [BT01] ball_toss_1_2_center_off 成功：保存至 ./final_clean_data/BT01/ball_toss_1_2_center_off
+2025-10-15 20:48:56 - [BT01] sit_to_stand_2_tall-noarm_on 找到的exo文件：['BT01_sit_to_stand_2_tall-noarm_on_exo.csv']
+2025-10-15 20:48:56 - [BT01] sit_to_stand_2_tall-noarm_on 找到的moment_filt文件：['BT01_sit_to_stand_2_tall-noarm_on_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] sit_to_stand_2_tall-noarm_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:56 - [BT01] sit_to_stand_2_tall-noarm_on：修正 8 个字段的符号
+2025-10-15 20:48:56 - [BT01] sit_to_stand_2_tall-noarm_on：通过activity_flag筛选，保留 6316/16401 行数据
+2025-10-15 20:48:56 - [BT01] sit_to_stand_2_tall-noarm_on 成功：保存至 ./final_clean_data/BT01/sit_to_stand_2_tall-noarm_on
+2025-10-15 20:48:56 - [BT01] ball_toss_1_2_right_off 找到的exo文件：['BT01_ball_toss_1_2_right_off_exo.csv']
+2025-10-15 20:48:56 - [BT01] ball_toss_1_2_right_off 找到的moment_filt文件：['BT01_ball_toss_1_2_right_off_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] ball_toss_1_2_right_off 有效腿：['left', 'right']
+2025-10-15 20:48:56 - [BT01] ball_toss_1_2_right_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:56 - [BT01] ball_toss_1_2_right_off：修正 8 个字段的符号
+2025-10-15 20:48:56 - [BT01] ball_toss_1_2_right_off：通过activity_flag筛选，保留 987/3001 行数据
+2025-10-15 20:48:56 - [BT01] ball_toss_1_2_right_off 成功：保存至 ./final_clean_data/BT01/ball_toss_1_2_right_off
+2025-10-15 20:48:56 - [BT01] stairs_1_10_down_off 找到的exo文件：['BT01_stairs_1_10_down_off_exo.csv']
+2025-10-15 20:48:56 - [BT01] stairs_1_10_down_off 找到的moment_filt文件：['BT01_stairs_1_10_down_off_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] stairs_1_10_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:48:56 - [BT01] lift_weight_1_25lbs-r-c_on 找到的exo文件：['BT01_lift_weight_1_25lbs-r-c_on_exo.csv']
+2025-10-15 20:48:56 - [BT01] lift_weight_1_25lbs-r-c_on 找到的moment_filt文件：['BT01_lift_weight_1_25lbs-r-c_on_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] lift_weight_1_25lbs-r-c_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:56 - [BT01] lift_weight_1_25lbs-r-c_on：修正 8 个字段的符号
+2025-10-15 20:48:56 - [BT01] lift_weight_1_25lbs-r-c_on：通过activity_flag筛选，保留 2101/3401 行数据
+2025-10-15 20:48:56 - [BT01] lift_weight_1_25lbs-r-c_on 成功：保存至 ./final_clean_data/BT01/lift_weight_1_25lbs-r-c_on
+2025-10-15 20:48:56 - [BT01] weighted_walk_1_25lbs_off 找到的exo文件：['BT01_weighted_walk_1_25lbs_off_exo.csv']
+2025-10-15 20:48:56 - [BT01] weighted_walk_1_25lbs_off 找到的moment_filt文件：['BT01_weighted_walk_1_25lbs_off_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] weighted_walk_1_25lbs_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:56 - [BT01] weighted_walk_1_25lbs_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:56 - [BT01] weighted_walk_1_25lbs_off：修正 8 个字段的符号
+2025-10-15 20:48:56 - [BT01] weighted_walk_1_25lbs_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:56 - [BT01] weighted_walk_1_25lbs_off 成功：保存至 ./final_clean_data/BT01/weighted_walk_1_25lbs_off
+2025-10-15 20:48:56 - [BT01] normal_walk_1_1-2_on 找到的exo文件：['BT01_normal_walk_1_1-2_on_exo.csv']
+2025-10-15 20:48:56 - [BT01] normal_walk_1_1-2_on 找到的moment_filt文件：['BT01_normal_walk_1_1-2_on_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] normal_walk_1_1-2_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:56 - [BT01] normal_walk_1_1-2_on：修正 8 个字段的符号
+2025-10-15 20:48:56 - [BT01] normal_walk_1_1-2_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:56 - [BT01] normal_walk_1_1-2_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_1-2_on
+2025-10-15 20:48:56 - [BT01] normal_walk_3_2-0_off 找到的exo文件：['BT01_normal_walk_3_2-0_off_exo.csv']
+2025-10-15 20:48:56 - [BT01] normal_walk_3_2-0_off 找到的moment_filt文件：['BT01_normal_walk_3_2-0_off_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] normal_walk_3_2-0_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:56 - [BT01] normal_walk_3_2-0_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:56 - [BT01] normal_walk_3_2-0_off：修正 8 个字段的符号
+2025-10-15 20:48:56 - [BT01] normal_walk_3_2-0_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:56 - [BT01] normal_walk_3_2-0_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_2-0_off
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_high-knees_off 找到的exo文件：['BT01_dynamic_walk_2_high-knees_off_exo.csv']
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_high-knees_off 找到的moment_filt文件：['BT01_dynamic_walk_2_high-knees_off_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_high-knees_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_high-knees_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_high-knees_off：修正 8 个字段的符号
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_high-knees_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_high-knees_off 成功：保存至 ./final_clean_data/BT01/dynamic_walk_2_high-knees_off
+2025-10-15 20:48:56 - [BT01] incline_walk_5_down10_on 找到的exo文件：['BT01_incline_walk_5_down10_on_exo.csv']
+2025-10-15 20:48:56 - [BT01] incline_walk_5_down10_on 找到的moment_filt文件：['BT01_incline_walk_5_down10_on_moment_filt.csv']
+2025-10-15 20:48:56 - [BT01] incline_walk_5_down10_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_toe-walk_off 找到的exo文件：['BT01_dynamic_walk_2_toe-walk_off_exo.csv']
+2025-10-15 20:48:56 - [BT01] dynamic_walk_2_toe-walk_off 找到的moment_filt文件：['BT01_dynamic_walk_2_toe-walk_off_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_toe-walk_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_toe-walk_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_toe-walk_off：修正 8 个字段的符号
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_toe-walk_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_toe-walk_off 成功：保存至 ./final_clean_data/BT01/dynamic_walk_2_toe-walk_off
+2025-10-15 20:48:57 - [BT01] twister_1_off 找到的exo文件：['BT01_twister_1_off_exo.csv']
+2025-10-15 20:48:57 - [BT01] twister_1_off 找到的moment_filt文件：['BT01_twister_1_off_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] twister_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:57 - [BT01] twister_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:57 - [BT01] twister_1_off：修正 8 个字段的符号
+2025-10-15 20:48:57 - [BT01] twister_1_off：通过activity_flag筛选，保留 14152/14152 行数据
+2025-10-15 20:48:57 - [BT01] twister_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_heel-walk_off 找到的exo文件：['BT01_dynamic_walk_2_heel-walk_off_exo.csv']
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_heel-walk_off 找到的moment_filt文件：['BT01_dynamic_walk_2_heel-walk_off_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_heel-walk_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_heel-walk_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_heel-walk_off：修正 8 个字段的符号
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_heel-walk_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:57 - [BT01] dynamic_walk_2_heel-walk_off 成功：保存至 ./final_clean_data/BT01/dynamic_walk_2_heel-walk_off
+2025-10-15 20:48:57 - [BT01] sit_to_stand_2_2_tall-noarm_off 找到的exo文件：['BT01_sit_to_stand_2_2_tall-noarm_off_exo.csv']
+2025-10-15 20:48:57 - [BT01] sit_to_stand_2_2_tall-noarm_off 找到的moment_filt文件：['BT01_sit_to_stand_2_2_tall-noarm_off_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] sit_to_stand_2_2_tall-noarm_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:57 - [BT01] sit_to_stand_2_2_tall-noarm_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:57 - [BT01] sit_to_stand_2_2_tall-noarm_off：修正 8 个字段的符号
+2025-10-15 20:48:57 - [BT01] sit_to_stand_2_2_tall-noarm_off：通过activity_flag筛选，保留 6086/17601 行数据
+2025-10-15 20:48:57 - [BT01] sit_to_stand_2_2_tall-noarm_off 成功：保存至 ./final_clean_data/BT01/sit_to_stand_2_2_tall-noarm_off
+2025-10-15 20:48:57 - [BT01] lift_weight_1_2_25lbs-r-r_off 找到的exo文件：['BT01_lift_weight_1_2_25lbs-r-r_off_exo.csv']
+2025-10-15 20:48:57 - [BT01] lift_weight_1_2_25lbs-r-r_off 找到的moment_filt文件：['BT01_lift_weight_1_2_25lbs-r-r_off_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] lift_weight_1_2_25lbs-r-r_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:57 - [BT01] lift_weight_1_2_25lbs-r-r_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:57 - [BT01] lift_weight_1_2_25lbs-r-r_off：修正 8 个字段的符号
+2025-10-15 20:48:57 - [BT01] lift_weight_1_2_25lbs-r-r_off：通过activity_flag筛选，保留 2046/3201 行数据
+2025-10-15 20:48:57 - [BT01] lift_weight_1_2_25lbs-r-r_off 成功：保存至 ./final_clean_data/BT01/lift_weight_1_2_25lbs-r-r_off
+2025-10-15 20:48:57 - [BT01] stairs_1_6_down_off 找到的exo文件：['BT01_stairs_1_6_down_off_exo.csv']
+2025-10-15 20:48:57 - [BT01] stairs_1_6_down_off 找到的moment_filt文件：['BT01_stairs_1_6_down_off_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] stairs_1_6_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:48:57 - [BT01] step_ups_1_right_off 找到的exo文件：['BT01_step_ups_1_right_off_exo.csv']
+2025-10-15 20:48:57 - [BT01] step_ups_1_right_off 找到的moment_filt文件：['BT01_step_ups_1_right_off_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] step_ups_1_right_off 有效腿：['left', 'right']
+2025-10-15 20:48:57 - [BT01] step_ups_1_right_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:57 - [BT01] step_ups_1_right_off：修正 8 个字段的符号
+2025-10-15 20:48:57 - [BT01] step_ups_1_right_off：通过activity_flag筛选，保留 1987/6201 行数据
+2025-10-15 20:48:57 - [BT01] step_ups_1_right_off 成功：保存至 ./final_clean_data/BT01/step_ups_1_right_off
+2025-10-15 20:48:57 - [BT01] stairs_1_9_up_on 找到的exo文件：['BT01_stairs_1_9_up_on_exo.csv']
+2025-10-15 20:48:57 - [BT01] stairs_1_9_up_on 找到的moment_filt文件：['BT01_stairs_1_9_up_on_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] stairs_1_9_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:48:57 - [BT01] normal_walk_1_1-8_on 找到的exo文件：['BT01_normal_walk_1_1-8_on_exo.csv']
+2025-10-15 20:48:57 - [BT01] normal_walk_1_1-8_on 找到的moment_filt文件：['BT01_normal_walk_1_1-8_on_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] normal_walk_1_1-8_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:57 - [BT01] normal_walk_1_1-8_on：修正 8 个字段的符号
+2025-10-15 20:48:57 - [BT01] normal_walk_1_1-8_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:57 - [BT01] normal_walk_1_1-8_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_1-8_on
+2025-10-15 20:48:57 - [BT01] stairs_2_8_down_on 找到的exo文件：['BT01_stairs_2_8_down_on_exo.csv']
+2025-10-15 20:48:57 - [BT01] stairs_2_8_down_on 找到的moment_filt文件：['BT01_stairs_2_8_down_on_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] stairs_2_8_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:48:57 - [BT01] jump_1_vertical_on 找到的exo文件：['BT01_jump_1_vertical_on_exo.csv']
+2025-10-15 20:48:57 - [BT01] jump_1_vertical_on 找到的moment_filt文件：['BT01_jump_1_vertical_on_moment_filt.csv']
+2025-10-15 20:48:57 - [BT01] jump_1_vertical_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:57 - [BT01] jump_1_vertical_on：修正 8 个字段的符号
+2025-10-15 20:48:57 - [BT01] jump_1_vertical_on：通过activity_flag筛选，保留 1962/3601 行数据
+2025-10-15 20:48:58 - [BT01] jump_1_vertical_on 成功：保存至 ./final_clean_data/BT01/jump_1_vertical_on
+2025-10-15 20:48:58 - [BT01] normal_walk_3_shuffle_off 找到的exo文件：['BT01_normal_walk_3_shuffle_off_exo.csv']
+2025-10-15 20:48:58 - [BT01] normal_walk_3_shuffle_off 找到的moment_filt文件：['BT01_normal_walk_3_shuffle_off_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] normal_walk_3_shuffle_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:58 - [BT01] normal_walk_3_shuffle_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:58 - [BT01] normal_walk_3_shuffle_off：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] normal_walk_3_shuffle_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:58 - [BT01] normal_walk_3_shuffle_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_shuffle_off
+2025-10-15 20:48:58 - [BT01] stairs_2_10_down_on 找到的exo文件：['BT01_stairs_2_10_down_on_exo.csv']
+2025-10-15 20:48:58 - [BT01] stairs_2_10_down_on 找到的moment_filt文件：['BT01_stairs_2_10_down_on_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] stairs_2_10_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:48:58 - [BT01] lift_weight_1_2_25lbs-l-c_off 找到的exo文件：['BT01_lift_weight_1_2_25lbs-l-c_off_exo.csv']
+2025-10-15 20:48:58 - [BT01] lift_weight_1_2_25lbs-l-c_off 找到的moment_filt文件：['BT01_lift_weight_1_2_25lbs-l-c_off_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] lift_weight_1_2_25lbs-l-c_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:58 - [BT01] lift_weight_1_2_25lbs-l-c_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:58 - [BT01] lift_weight_1_2_25lbs-l-c_off：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] lift_weight_1_2_25lbs-l-c_off：通过activity_flag筛选，保留 2243/3001 行数据
+2025-10-15 20:48:58 - [BT01] lift_weight_1_2_25lbs-l-c_off 成功：保存至 ./final_clean_data/BT01/lift_weight_1_2_25lbs-l-c_off
+2025-10-15 20:48:58 - [BT01] lift_weight_2_2_0lbs-r-r_off 找到的exo文件：['BT01_lift_weight_2_2_0lbs-r-r_off_exo.csv']
+2025-10-15 20:48:58 - [BT01] lift_weight_2_2_0lbs-r-r_off 找到的moment_filt文件：['BT01_lift_weight_2_2_0lbs-r-r_off_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] lift_weight_2_2_0lbs-r-r_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:58 - [BT01] lift_weight_2_2_0lbs-r-r_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:58 - [BT01] lift_weight_2_2_0lbs-r-r_off：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] lift_weight_2_2_0lbs-r-r_off：通过activity_flag筛选，保留 1899/3001 行数据
+2025-10-15 20:48:58 - [BT01] lift_weight_2_2_0lbs-r-r_off 成功：保存至 ./final_clean_data/BT01/lift_weight_2_2_0lbs-r-r_off
+2025-10-15 20:48:58 - [BT01] tire_run_1_off 找到的exo文件：['BT01_tire_run_1_off_exo.csv']
+2025-10-15 20:48:58 - [BT01] tire_run_1_off 找到的moment_filt文件：['BT01_tire_run_1_off_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] tire_run_1_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:48:58 - [BT01] lift_weight_2_0lbs-l-c_on 找到的exo文件：['BT01_lift_weight_2_0lbs-l-c_on_exo.csv']
+2025-10-15 20:48:58 - [BT01] lift_weight_2_0lbs-l-c_on 找到的moment_filt文件：['BT01_lift_weight_2_0lbs-l-c_on_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] lift_weight_2_0lbs-l-c_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:58 - [BT01] lift_weight_2_0lbs-l-c_on：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] lift_weight_2_0lbs-l-c_on：通过activity_flag筛选，保留 1949/3201 行数据
+2025-10-15 20:48:58 - [BT01] lift_weight_2_0lbs-l-c_on 成功：保存至 ./final_clean_data/BT01/lift_weight_2_0lbs-l-c_on
+2025-10-15 20:48:58 - [BT01] dynamic_walk_1_butt-kicks_on 找到的exo文件：['BT01_dynamic_walk_1_butt-kicks_on_exo.csv']
+2025-10-15 20:48:58 - [BT01] dynamic_walk_1_butt-kicks_on 找到的moment_filt文件：['BT01_dynamic_walk_1_butt-kicks_on_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] dynamic_walk_1_butt-kicks_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:58 - [BT01] dynamic_walk_1_butt-kicks_on：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] dynamic_walk_1_butt-kicks_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:58 - [BT01] dynamic_walk_1_butt-kicks_on 成功：保存至 ./final_clean_data/BT01/dynamic_walk_1_butt-kicks_on
+2025-10-15 20:48:58 - [BT01] push_1_off 找到的exo文件：['BT01_push_1_off_exo.csv']
+2025-10-15 20:48:58 - [BT01] push_1_off 找到的moment_filt文件：['BT01_push_1_off_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] push_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:58 - [BT01] push_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:58 - [BT01] push_1_off：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] push_1_off：通过activity_flag筛选，保留 12696/12696 行数据
+2025-10-15 20:48:58 - [BT01] push_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 20:48:58 - [BT01] ball_toss_1_right_on 找到的exo文件：['BT01_ball_toss_1_right_on_exo.csv']
+2025-10-15 20:48:58 - [BT01] ball_toss_1_right_on 找到的moment_filt文件：['BT01_ball_toss_1_right_on_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] ball_toss_1_right_on 有效腿：['left', 'right']
+2025-10-15 20:48:58 - [BT01] ball_toss_1_right_on：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] ball_toss_1_right_on：通过activity_flag筛选，保留 1122/3601 行数据
+2025-10-15 20:48:58 - [BT01] ball_toss_1_right_on 成功：保存至 ./final_clean_data/BT01/ball_toss_1_right_on
+2025-10-15 20:48:58 - [BT01] incline_walk_4_up5_off 找到的exo文件：['BT01_incline_walk_4_up5_off_exo.csv']
+2025-10-15 20:48:58 - [BT01] incline_walk_4_up5_off 找到的moment_filt文件：['BT01_incline_walk_4_up5_off_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] incline_walk_4_up5_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:58 - [BT01] incline_walk_4_up5_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:58 - [BT01] incline_walk_4_up5_off：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] incline_walk_4_up5_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:58 - [BT01] incline_walk_4_up5_off 成功：保存至 ./final_clean_data/BT01/incline_walk_4_up5_off
+2025-10-15 20:48:58 - [BT01] lunges_1_2_off 找到的exo文件：['BT01_lunges_1_2_off_exo.csv']
+2025-10-15 20:48:58 - [BT01] lunges_1_2_off 找到的moment_filt文件：['BT01_lunges_1_2_off_moment_filt.csv']
+2025-10-15 20:48:58 - [BT01] lunges_1_2_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:58 - [BT01] lunges_1_2_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:58 - [BT01] lunges_1_2_off：修正 8 个字段的符号
+2025-10-15 20:48:58 - [BT01] lunges_1_2_off：通过activity_flag筛选，保留 7672/13001 行数据
+2025-10-15 20:48:58 - [BT01] lunges_1_2_off 失败：同步后有效腿字段存在NaN
+2025-10-15 20:48:58 - [BT01] sit_to_stand_1_2_short-noarm_off 找到的exo文件：['BT01_sit_to_stand_1_2_short-noarm_off_exo.csv']
+2025-10-15 20:48:58 - [BT01] sit_to_stand_1_2_short-noarm_off 找到的moment_filt文件：['BT01_sit_to_stand_1_2_short-noarm_off_moment_filt.csv']
+2025-10-15 20:48:59 - [BT01] sit_to_stand_1_2_short-noarm_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:59 - [BT01] sit_to_stand_1_2_short-noarm_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:59 - [BT01] sit_to_stand_1_2_short-noarm_off：修正 8 个字段的符号
+2025-10-15 20:48:59 - [BT01] sit_to_stand_1_2_short-noarm_off：通过activity_flag筛选，保留 6885/17601 行数据
+2025-10-15 20:48:59 - [BT01] sit_to_stand_1_2_short-noarm_off 成功：保存至 ./final_clean_data/BT01/sit_to_stand_1_2_short-noarm_off
+2025-10-15 20:48:59 - [BT01] incline_walk_3_up5_on 找到的exo文件：['BT01_incline_walk_3_up5_on_exo.csv']
+2025-10-15 20:48:59 - [BT01] incline_walk_3_up5_on 找到的moment_filt文件：['BT01_incline_walk_3_up5_on_moment_filt.csv']
+2025-10-15 20:48:59 - [BT01] incline_walk_3_up5_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:59 - [BT01] incline_walk_3_up5_on：修正 8 个字段的符号
+2025-10-15 20:48:59 - [BT01] incline_walk_3_up5_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:59 - [BT01] incline_walk_3_up5_on 成功：保存至 ./final_clean_data/BT01/incline_walk_3_up5_on
+2025-10-15 20:48:59 - [BT01] incline_walk_5_up10_on 找到的exo文件：['BT01_incline_walk_5_up10_on_exo.csv']
+2025-10-15 20:48:59 - [BT01] incline_walk_5_up10_on 找到的moment_filt文件：['BT01_incline_walk_5_up10_on_moment_filt.csv']
+2025-10-15 20:48:59 - [BT01] incline_walk_5_up10_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:59 - [BT01] incline_walk_5_up10_on：修正 8 个字段的符号
+2025-10-15 20:48:59 - [BT01] incline_walk_5_up10_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:59 - [BT01] incline_walk_5_up10_on 成功：保存至 ./final_clean_data/BT01/incline_walk_5_up10_on
+2025-10-15 20:48:59 - [BT01] walk_backward_1_0-8_off 找到的exo文件：['BT01_walk_backward_1_0-8_off_exo.csv']
+2025-10-15 20:48:59 - [BT01] walk_backward_1_0-8_off 找到的moment_filt文件：['BT01_walk_backward_1_0-8_off_moment_filt.csv']
+2025-10-15 20:48:59 - [BT01] walk_backward_1_0-8_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:48:59 - [BT01] walk_backward_1_0-8_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:59 - [BT01] walk_backward_1_0-8_off：修正 8 个字段的符号
+2025-10-15 20:48:59 - [BT01] walk_backward_1_0-8_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:59 - [BT01] walk_backward_1_0-8_off 成功：保存至 ./final_clean_data/BT01/walk_backward_1_0-8_off
+2025-10-15 20:48:59 - [BT01] normal_walk_3_2-5_off 找到的exo文件：['BT01_normal_walk_3_2-5_off_exo.csv']
+2025-10-15 20:48:59 - [BT01] normal_walk_3_2-5_off 找到的moment_filt文件：['BT01_normal_walk_3_2-5_off_moment_filt.csv']
+2025-10-15 20:48:59 - [BT01] normal_walk_3_2-5_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:59 - [BT01] normal_walk_3_2-5_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:59 - [BT01] normal_walk_3_2-5_off：修正 8 个字段的符号
+2025-10-15 20:48:59 - [BT01] normal_walk_3_2-5_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:48:59 - [BT01] normal_walk_3_2-5_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_2-5_off
+2025-10-15 20:48:59 - [BT01] jump_3_2_90-f_off 找到的exo文件：['BT01_jump_3_2_90-f_off_exo.csv']
+2025-10-15 20:48:59 - [BT01] jump_3_2_90-f_off 找到的moment_filt文件：['BT01_jump_3_2_90-f_off_moment_filt.csv']
+2025-10-15 20:48:59 - [BT01] jump_3_2_90-f_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:59 - [BT01] jump_3_2_90-f_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:48:59 - [BT01] jump_3_2_90-f_off：修正 8 个字段的符号
+2025-10-15 20:48:59 - [BT01] jump_3_2_90-f_off：通过activity_flag筛选，保留 3686/4801 行数据
+2025-10-15 20:48:59 - [BT01] jump_3_2_90-f_off 成功：保存至 ./final_clean_data/BT01/jump_3_2_90-f_off
+2025-10-15 20:48:59 - [BT01] squats_1_25lbs_on 找到的exo文件：['BT01_squats_1_25lbs_on_exo.csv']
+2025-10-15 20:48:59 - [BT01] squats_1_25lbs_on 找到的moment_filt文件：['BT01_squats_1_25lbs_on_moment_filt.csv']
+2025-10-15 20:48:59 - [BT01] squats_1_25lbs_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:48:59 - [BT01] squats_1_25lbs_on：修正 8 个字段的符号
+2025-10-15 20:48:59 - [BT01] squats_1_25lbs_on：通过activity_flag筛选，保留 1934/3201 行数据
+2025-10-15 20:49:00 - [BT01] squats_1_25lbs_on 成功：保存至 ./final_clean_data/BT01/squats_1_25lbs_on
+2025-10-15 20:49:00 - [BT01] dynamic_walk_2_butt-kicks_off 找到的exo文件：['BT01_dynamic_walk_2_butt-kicks_off_exo.csv']
+2025-10-15 20:49:00 - [BT01] dynamic_walk_2_butt-kicks_off 找到的moment_filt文件：['BT01_dynamic_walk_2_butt-kicks_off_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] dynamic_walk_2_butt-kicks_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:00 - [BT01] dynamic_walk_2_butt-kicks_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:00 - [BT01] dynamic_walk_2_butt-kicks_off：修正 8 个字段的符号
+2025-10-15 20:49:00 - [BT01] dynamic_walk_2_butt-kicks_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:00 - [BT01] dynamic_walk_2_butt-kicks_off 成功：保存至 ./final_clean_data/BT01/dynamic_walk_2_butt-kicks_off
+2025-10-15 20:49:00 - [BT01] ball_toss_1_left_on 找到的exo文件：['BT01_ball_toss_1_left_on_exo.csv']
+2025-10-15 20:49:00 - [BT01] ball_toss_1_left_on 找到的moment_filt文件：['BT01_ball_toss_1_left_on_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] ball_toss_1_left_on 有效腿：['left', 'right']
+2025-10-15 20:49:00 - [BT01] ball_toss_1_left_on：修正 8 个字段的符号
+2025-10-15 20:49:00 - [BT01] ball_toss_1_left_on：通过activity_flag筛选，保留 1412/4201 行数据
+2025-10-15 20:49:00 - [BT01] ball_toss_1_left_on 成功：保存至 ./final_clean_data/BT01/ball_toss_1_left_on
+2025-10-15 20:49:00 - [BT01] turn_and_step_1_left-turn_off 找到的exo文件：['BT01_turn_and_step_1_left-turn_off_exo.csv']
+2025-10-15 20:49:00 - [BT01] turn_and_step_1_left-turn_off 找到的moment_filt文件：['BT01_turn_and_step_1_left-turn_off_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] turn_and_step_1_left-turn_off 失败：双腿力矩均有NaN
+2025-10-15 20:49:00 - [BT01] jump_2_2_lateral_off 找到的exo文件：['BT01_jump_2_2_lateral_off_exo.csv']
+2025-10-15 20:49:00 - [BT01] jump_2_2_lateral_off 找到的moment_filt文件：['BT01_jump_2_2_lateral_off_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] jump_2_2_lateral_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:00 - [BT01] jump_2_2_lateral_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:00 - [BT01] jump_2_2_lateral_off：修正 8 个字段的符号
+2025-10-15 20:49:00 - [BT01] jump_2_2_lateral_off：通过activity_flag筛选，保留 3388/4001 行数据
+2025-10-15 20:49:00 - [BT01] jump_2_2_lateral_off 成功：保存至 ./final_clean_data/BT01/jump_2_2_lateral_off
+2025-10-15 20:49:00 - [BT01] jump_2_lateral_on 找到的exo文件：['BT01_jump_2_lateral_on_exo.csv']
+2025-10-15 20:49:00 - [BT01] jump_2_lateral_on 找到的moment_filt文件：['BT01_jump_2_lateral_on_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] jump_2_lateral_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:00 - [BT01] jump_2_lateral_on：修正 8 个字段的符号
+2025-10-15 20:49:00 - [BT01] jump_2_lateral_on：通过activity_flag筛选，保留 3766/4801 行数据
+2025-10-15 20:49:00 - [BT01] jump_2_lateral_on 成功：保存至 ./final_clean_data/BT01/jump_2_lateral_on
+2025-10-15 20:49:00 - [BT01] jump_3_2_90-s_off 找到的exo文件：['BT01_jump_3_2_90-s_off_exo.csv']
+2025-10-15 20:49:00 - [BT01] jump_3_2_90-s_off 找到的moment_filt文件：['BT01_jump_3_2_90-s_off_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] jump_3_2_90-s_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:00 - [BT01] jump_3_2_90-s_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:00 - [BT01] jump_3_2_90-s_off：修正 8 个字段的符号
+2025-10-15 20:49:00 - [BT01] jump_3_2_90-s_off：通过activity_flag筛选，保留 3836/4801 行数据
+2025-10-15 20:49:00 - [BT01] jump_3_2_90-s_off 成功：保存至 ./final_clean_data/BT01/jump_3_2_90-s_off
+2025-10-15 20:49:00 - [BT01] squats_1_0lbs_on 找到的exo文件：['BT01_squats_1_0lbs_on_exo.csv']
+2025-10-15 20:49:00 - [BT01] squats_1_0lbs_on 找到的moment_filt文件：['BT01_squats_1_0lbs_on_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] squats_1_0lbs_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:00 - [BT01] squats_1_0lbs_on：修正 8 个字段的符号
+2025-10-15 20:49:00 - [BT01] squats_1_0lbs_on：通过activity_flag筛选，保留 1814/3201 行数据
+2025-10-15 20:49:00 - [BT01] squats_1_0lbs_on 成功：保存至 ./final_clean_data/BT01/squats_1_0lbs_on
+2025-10-15 20:49:00 - [BT01] walk_backward_1_1-0_on 找到的exo文件：['BT01_walk_backward_1_1-0_on_exo.csv']
+2025-10-15 20:49:00 - [BT01] walk_backward_1_1-0_on 找到的moment_filt文件：['BT01_walk_backward_1_1-0_on_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] walk_backward_1_1-0_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:00 - [BT01] walk_backward_1_1-0_on：修正 8 个字段的符号
+2025-10-15 20:49:00 - [BT01] walk_backward_1_1-0_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:00 - [BT01] walk_backward_1_1-0_on 成功：保存至 ./final_clean_data/BT01/walk_backward_1_1-0_on
+2025-10-15 20:49:00 - [BT01] stairs_2_6_down_on 找到的exo文件：['BT01_stairs_2_6_down_on_exo.csv']
+2025-10-15 20:49:00 - [BT01] stairs_2_6_down_on 找到的moment_filt文件：['BT01_stairs_2_6_down_on_moment_filt.csv']
+2025-10-15 20:49:00 - [BT01] stairs_2_6_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:00 - [BT01] curb_down_1_on 找到的exo文件：['BT01_curb_down_1_on_exo.csv']
+2025-10-15 20:49:00 - [BT01] curb_down_1_on 找到的moment_filt文件：['BT01_curb_down_1_on_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] curb_down_1_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:01 - [BT01] jump_1_2_vertical_off 找到的exo文件：['BT01_jump_1_2_vertical_off_exo.csv']
+2025-10-15 20:49:01 - [BT01] jump_1_2_vertical_off 找到的moment_filt文件：['BT01_jump_1_2_vertical_off_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] jump_1_2_vertical_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:01 - [BT01] jump_1_2_vertical_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:01 - [BT01] jump_1_2_vertical_off：修正 8 个字段的符号
+2025-10-15 20:49:01 - [BT01] jump_1_2_vertical_off：通过activity_flag筛选，保留 1704/3001 行数据
+2025-10-15 20:49:01 - [BT01] jump_1_2_vertical_off 成功：保存至 ./final_clean_data/BT01/jump_1_2_vertical_off
+2025-10-15 20:49:01 - [BT01] curb_up_1_2_off 找到的exo文件：['BT01_curb_up_1_2_off_exo.csv']
+2025-10-15 20:49:01 - [BT01] curb_up_1_2_off 找到的moment_filt文件：['BT01_curb_up_1_2_off_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] curb_up_1_2_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:01 - [BT01] normal_walk_3_skip_off 找到的exo文件：['BT01_normal_walk_3_skip_off_exo.csv']
+2025-10-15 20:49:01 - [BT01] normal_walk_3_skip_off 找到的moment_filt文件：['BT01_normal_walk_3_skip_off_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] normal_walk_3_skip_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:01 - [BT01] normal_walk_3_skip_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:01 - [BT01] normal_walk_3_skip_off：修正 8 个字段的符号
+2025-10-15 20:49:01 - [BT01] normal_walk_3_skip_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:01 - [BT01] normal_walk_3_skip_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_skip_off
+2025-10-15 20:49:01 - [BT01] cutting_1_left-fast_off 找到的exo文件：['BT01_cutting_1_left-fast_off_exo.csv']
+2025-10-15 20:49:01 - [BT01] cutting_1_left-fast_off 找到的moment_filt文件：['BT01_cutting_1_left-fast_off_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] cutting_1_left-fast_off 失败：双腿力矩均有NaN
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-0_on 找到的exo文件：['BT01_normal_walk_1_2-0_on_exo.csv']
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-0_on 找到的moment_filt文件：['BT01_normal_walk_1_2-0_on_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-0_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-0_on：修正 8 个字段的符号
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-0_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-0_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_2-0_on
+2025-10-15 20:49:01 - [BT01] turn_and_step_1_right-turn_off 找到的exo文件：['BT01_turn_and_step_1_right-turn_off_exo.csv']
+2025-10-15 20:49:01 - [BT01] turn_and_step_1_right-turn_off 找到的moment_filt文件：['BT01_turn_and_step_1_right-turn_off_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] turn_and_step_1_right-turn_off 失败：双腿力矩均有NaN
+2025-10-15 20:49:01 - [BT01] lunges_1_on 找到的exo文件：['BT01_lunges_1_on_exo.csv']
+2025-10-15 20:49:01 - [BT01] lunges_1_on 找到的moment_filt文件：['BT01_lunges_1_on_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] lunges_1_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:01 - [BT01] lunges_1_on：修正 8 个字段的符号
+2025-10-15 20:49:01 - [BT01] lunges_1_on：通过activity_flag筛选，保留 7996/15001 行数据
+2025-10-15 20:49:01 - [BT01] lunges_1_on 失败：同步后有效腿字段存在NaN
+2025-10-15 20:49:01 - [BT01] lift_weight_1_25lbs-l-c_on 找到的exo文件：['BT01_lift_weight_1_25lbs-l-c_on_exo.csv']
+2025-10-15 20:49:01 - [BT01] lift_weight_1_25lbs-l-c_on 找到的moment_filt文件：['BT01_lift_weight_1_25lbs-l-c_on_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] lift_weight_1_25lbs-l-c_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:01 - [BT01] lift_weight_1_25lbs-l-c_on：修正 8 个字段的符号
+2025-10-15 20:49:01 - [BT01] lift_weight_1_25lbs-l-c_on：通过activity_flag筛选，保留 2348/3401 行数据
+2025-10-15 20:49:01 - [BT01] lift_weight_1_25lbs-l-c_on 成功：保存至 ./final_clean_data/BT01/lift_weight_1_25lbs-l-c_on
+2025-10-15 20:49:01 - [BT01] stairs_1_5_up_on 找到的exo文件：['BT01_stairs_1_5_up_on_exo.csv']
+2025-10-15 20:49:01 - [BT01] stairs_1_5_up_on 找到的moment_filt文件：['BT01_stairs_1_5_up_on_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] stairs_1_5_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-5_on 找到的exo文件：['BT01_normal_walk_1_2-5_on_exo.csv']
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-5_on 找到的moment_filt文件：['BT01_normal_walk_1_2-5_on_moment_filt.csv']
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-5_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-5_on：修正 8 个字段的符号
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-5_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:01 - [BT01] normal_walk_1_2-5_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_2-5_on
+2025-10-15 20:49:01 - [BT01] start_stop_1_off 找到的exo文件：['BT01_start_stop_1_off_exo.csv']
+2025-10-15 20:49:01 - [BT01] start_stop_1_off 找到的moment_filt文件：['BT01_start_stop_1_off_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] start_stop_1_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:02 - [BT01] lift_weight_2_2_0lbs-l-c_off 找到的exo文件：['BT01_lift_weight_2_2_0lbs-l-c_off_exo.csv']
+2025-10-15 20:49:02 - [BT01] lift_weight_2_2_0lbs-l-c_off 找到的moment_filt文件：['BT01_lift_weight_2_2_0lbs-l-c_off_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] lift_weight_2_2_0lbs-l-c_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:02 - [BT01] lift_weight_2_2_0lbs-l-c_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:02 - [BT01] lift_weight_2_2_0lbs-l-c_off：修正 8 个字段的符号
+2025-10-15 20:49:02 - [BT01] lift_weight_2_2_0lbs-l-c_off：通过activity_flag筛选，保留 2012/3201 行数据
+2025-10-15 20:49:02 - [BT01] lift_weight_2_2_0lbs-l-c_off 成功：保存至 ./final_clean_data/BT01/lift_weight_2_2_0lbs-l-c_off
+2025-10-15 20:49:02 - [BT01] sit_to_stand_1_short-arm_on 找到的exo文件：['BT01_sit_to_stand_1_short-arm_on_exo.csv']
+2025-10-15 20:49:02 - [BT01] sit_to_stand_1_short-arm_on 找到的moment_filt文件：['BT01_sit_to_stand_1_short-arm_on_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] sit_to_stand_1_short-arm_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:02 - [BT01] sit_to_stand_1_short-arm_on：修正 8 个字段的符号
+2025-10-15 20:49:02 - [BT01] sit_to_stand_1_short-arm_on：通过activity_flag筛选，保留 7808/16001 行数据
+2025-10-15 20:49:02 - [BT01] sit_to_stand_1_short-arm_on 成功：保存至 ./final_clean_data/BT01/sit_to_stand_1_short-arm_on
+2025-10-15 20:49:02 - [BT01] weighted_walk_1_25lbs_on 找到的exo文件：['BT01_weighted_walk_1_25lbs_on_exo.csv']
+2025-10-15 20:49:02 - [BT01] weighted_walk_1_25lbs_on 找到的moment_filt文件：['BT01_weighted_walk_1_25lbs_on_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] weighted_walk_1_25lbs_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:02 - [BT01] weighted_walk_1_25lbs_on：修正 8 个字段的符号
+2025-10-15 20:49:02 - [BT01] weighted_walk_1_25lbs_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:02 - [BT01] weighted_walk_1_25lbs_on 成功：保存至 ./final_clean_data/BT01/weighted_walk_1_25lbs_on
+2025-10-15 20:49:02 - [BT01] side_shuffle_1_off 找到的exo文件：['BT01_side_shuffle_1_off_exo.csv']
+2025-10-15 20:49:02 - [BT01] side_shuffle_1_off 找到的moment_filt文件：['BT01_side_shuffle_1_off_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] side_shuffle_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:02 - [BT01] side_shuffle_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:02 - [BT01] side_shuffle_1_off：修正 8 个字段的符号
+2025-10-15 20:49:02 - [BT01] side_shuffle_1_off：通过activity_flag筛选，保留 1757/4189 行数据
+2025-10-15 20:49:02 - [BT01] side_shuffle_1_off 成功：保存至 ./final_clean_data/BT01/side_shuffle_1_off
+2025-10-15 20:49:02 - [BT01] lift_weight_1_2_25lbs-r-c_off 找到的exo文件：['BT01_lift_weight_1_2_25lbs-r-c_off_exo.csv']
+2025-10-15 20:49:02 - [BT01] lift_weight_1_2_25lbs-r-c_off 找到的moment_filt文件：['BT01_lift_weight_1_2_25lbs-r-c_off_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] lift_weight_1_2_25lbs-r-c_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:02 - [BT01] lift_weight_1_2_25lbs-r-c_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:02 - [BT01] lift_weight_1_2_25lbs-r-c_off：修正 8 个字段的符号
+2025-10-15 20:49:02 - [BT01] lift_weight_1_2_25lbs-r-c_off：通过activity_flag筛选，保留 2178/3201 行数据
+2025-10-15 20:49:02 - [BT01] lift_weight_1_2_25lbs-r-c_off 成功：保存至 ./final_clean_data/BT01/lift_weight_1_2_25lbs-r-c_off
+2025-10-15 20:49:02 - [BT01] meander_1_off 找到的exo文件：['BT01_meander_1_off_exo.csv']
+2025-10-15 20:49:02 - [BT01] meander_1_off 找到的moment_filt文件：['BT01_meander_1_off_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] meander_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:02 - [BT01] meander_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:02 - [BT01] meander_1_off：修正 8 个字段的符号
+2025-10-15 20:49:02 - [BT01] meander_1_off：通过activity_flag筛选，保留 13989/13989 行数据
+2025-10-15 20:49:02 - [BT01] meander_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 20:49:02 - [BT01] lunges_2_2_left_off 找到的exo文件：['BT01_lunges_2_2_left_off_exo.csv']
+2025-10-15 20:49:02 - [BT01] lunges_2_2_left_off 找到的moment_filt文件：['BT01_lunges_2_2_left_off_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] lunges_2_2_left_off 有效腿：['left', 'right']
+2025-10-15 20:49:02 - [BT01] lunges_2_2_left_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:02 - [BT01] lunges_2_2_left_off：修正 8 个字段的符号
+2025-10-15 20:49:02 - [BT01] lunges_2_2_left_off：通过activity_flag筛选，保留 1733/2801 行数据
+2025-10-15 20:49:02 - [BT01] lunges_2_2_left_off 成功：保存至 ./final_clean_data/BT01/lunges_2_2_left_off
+2025-10-15 20:49:02 - [BT01] normal_walk_3_1-2_off 找到的exo文件：['BT01_normal_walk_3_1-2_off_exo.csv']
+2025-10-15 20:49:02 - [BT01] normal_walk_3_1-2_off 找到的moment_filt文件：['BT01_normal_walk_3_1-2_off_moment_filt.csv']
+2025-10-15 20:49:02 - [BT01] normal_walk_3_1-2_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:02 - [BT01] normal_walk_3_1-2_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:02 - [BT01] normal_walk_3_1-2_off：修正 8 个字段的符号
+2025-10-15 20:49:02 - [BT01] normal_walk_3_1-2_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:03 - [BT01] normal_walk_3_1-2_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_1-2_off
+2025-10-15 20:49:03 - [BT01] walk_backward_1_0-6_off 找到的exo文件：['BT01_walk_backward_1_0-6_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] walk_backward_1_0-6_off 找到的moment_filt文件：['BT01_walk_backward_1_0-6_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] walk_backward_1_0-6_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:03 - [BT01] walk_backward_1_0-6_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:03 - [BT01] walk_backward_1_0-6_off：修正 8 个字段的符号
+2025-10-15 20:49:03 - [BT01] walk_backward_1_0-6_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:03 - [BT01] walk_backward_1_0-6_off 成功：保存至 ./final_clean_data/BT01/walk_backward_1_0-6_off
+2025-10-15 20:49:03 - [BT01] jump_1_2_fb_off 找到的exo文件：['BT01_jump_1_2_fb_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] jump_1_2_fb_off 找到的moment_filt文件：['BT01_jump_1_2_fb_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] jump_1_2_fb_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:03 - [BT01] jump_1_2_fb_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:03 - [BT01] jump_1_2_fb_off：修正 8 个字段的符号
+2025-10-15 20:49:03 - [BT01] jump_1_2_fb_off：通过activity_flag筛选，保留 2727/4601 行数据
+2025-10-15 20:49:03 - [BT01] jump_1_2_fb_off 成功：保存至 ./final_clean_data/BT01/jump_1_2_fb_off
+2025-10-15 20:49:03 - [BT01] jump_2_2_180_off 找到的exo文件：['BT01_jump_2_2_180_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] jump_2_2_180_off 找到的moment_filt文件：['BT01_jump_2_2_180_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] jump_2_2_180_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:03 - [BT01] jump_2_2_180_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:03 - [BT01] jump_2_2_180_off：修正 8 个字段的符号
+2025-10-15 20:49:03 - [BT01] jump_2_2_180_off：通过activity_flag筛选，保留 2264/3801 行数据
+2025-10-15 20:49:03 - [BT01] jump_2_2_180_off 成功：保存至 ./final_clean_data/BT01/jump_2_2_180_off
+2025-10-15 20:49:03 - [BT01] stairs_1_4_down_off 找到的exo文件：['BT01_stairs_1_4_down_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] stairs_1_4_down_off 找到的moment_filt文件：['BT01_stairs_1_4_down_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] stairs_1_4_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:03 - [BT01] obstacle_walk_1_off 找到的exo文件：['BT01_obstacle_walk_1_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] obstacle_walk_1_off 找到的moment_filt文件：['BT01_obstacle_walk_1_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] obstacle_walk_1_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:03 - [BT01] obstacle_walk_1_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:03 - [BT01] obstacle_walk_1_off：修正 8 个字段的符号
+2025-10-15 20:49:03 - [BT01] obstacle_walk_1_off：通过activity_flag筛选，保留 24433/26576 行数据
+2025-10-15 20:49:03 - [BT01] obstacle_walk_1_off 失败：同步后有效腿字段存在NaN
+2025-10-15 20:49:03 - [BT01] stairs_2_3_up_off 找到的exo文件：['BT01_stairs_2_3_up_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] stairs_2_3_up_off 找到的moment_filt文件：['BT01_stairs_2_3_up_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] stairs_2_3_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:03 - [BT01] stairs_2_7_up_off 找到的exo文件：['BT01_stairs_2_7_up_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] stairs_2_7_up_off 找到的moment_filt文件：['BT01_stairs_2_7_up_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] stairs_2_7_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:03 - [BT01] ball_toss_1_center_on 找到的exo文件：['BT01_ball_toss_1_center_on_exo.csv']
+2025-10-15 20:49:03 - [BT01] ball_toss_1_center_on 找到的moment_filt文件：['BT01_ball_toss_1_center_on_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] ball_toss_1_center_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:03 - [BT01] ball_toss_1_center_on：修正 8 个字段的符号
+2025-10-15 20:49:03 - [BT01] ball_toss_1_center_on：通过activity_flag筛选，保留 1282/4401 行数据
+2025-10-15 20:49:03 - [BT01] ball_toss_1_center_on 成功：保存至 ./final_clean_data/BT01/ball_toss_1_center_on
+2025-10-15 20:49:03 - [BT01] lunges_2_right_on 找到的exo文件：['BT01_lunges_2_right_on_exo.csv']
+2025-10-15 20:49:03 - [BT01] lunges_2_right_on 找到的moment_filt文件：['BT01_lunges_2_right_on_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] lunges_2_right_on 有效腿：['left', 'right']
+2025-10-15 20:49:03 - [BT01] lunges_2_right_on：修正 8 个字段的符号
+2025-10-15 20:49:03 - [BT01] lunges_2_right_on：通过activity_flag筛选，保留 1921/3601 行数据
+2025-10-15 20:49:03 - [BT01] lunges_2_right_on 成功：保存至 ./final_clean_data/BT01/lunges_2_right_on
+2025-10-15 20:49:03 - [BT01] incline_walk_6_down10_off 找到的exo文件：['BT01_incline_walk_6_down10_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] incline_walk_6_down10_off 找到的moment_filt文件：['BT01_incline_walk_6_down10_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] incline_walk_6_down10_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:03 - [BT01] cutting_1_right-fast_off 找到的exo文件：['BT01_cutting_1_right-fast_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] cutting_1_right-fast_off 找到的moment_filt文件：['BT01_cutting_1_right-fast_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] cutting_1_right-fast_off 失败：双腿力矩均有NaN
+2025-10-15 20:49:03 - [BT01] tug_of_war_2_off 找到的exo文件：['BT01_tug_of_war_2_off_exo.csv']
+2025-10-15 20:49:03 - [BT01] tug_of_war_2_off 找到的moment_filt文件：['BT01_tug_of_war_2_off_moment_filt.csv']
+2025-10-15 20:49:03 - [BT01] tug_of_war_2_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:03 - [BT01] tug_of_war_2_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:03 - [BT01] tug_of_war_2_off：修正 8 个字段的符号
+2025-10-15 20:49:03 - [BT01] tug_of_war_2_off：通过activity_flag筛选，保留 12092/12092 行数据
+2025-10-15 20:49:04 - [BT01] tug_of_war_2_off 成功：保存至 ./final_clean_data/BT01/tug_of_war_2_off
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_2_short-arm_off 找到的exo文件：['BT01_sit_to_stand_1_2_short-arm_off_exo.csv']
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_2_short-arm_off 找到的moment_filt文件：['BT01_sit_to_stand_1_2_short-arm_off_moment_filt.csv']
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_2_short-arm_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_2_short-arm_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_2_short-arm_off：修正 8 个字段的符号
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_2_short-arm_off：通过activity_flag筛选，保留 7110/17001 行数据
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_2_short-arm_off 成功：保存至 ./final_clean_data/BT01/sit_to_stand_1_2_short-arm_off
+2025-10-15 20:49:04 - [BT01] jump_1_2_hop_off 找到的exo文件：['BT01_jump_1_2_hop_off_exo.csv']
+2025-10-15 20:49:04 - [BT01] jump_1_2_hop_off 找到的moment_filt文件：['BT01_jump_1_2_hop_off_moment_filt.csv']
+2025-10-15 20:49:04 - [BT01] jump_1_2_hop_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:04 - [BT01] jump_1_2_hop_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:04 - [BT01] jump_1_2_hop_off：修正 8 个字段的符号
+2025-10-15 20:49:04 - [BT01] jump_1_2_hop_off：通过activity_flag筛选，保留 1535/1601 行数据
+2025-10-15 20:49:04 - [BT01] jump_1_2_hop_off 成功：保存至 ./final_clean_data/BT01/jump_1_2_hop_off
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_short-noarm_on 找到的exo文件：['BT01_sit_to_stand_1_short-noarm_on_exo.csv']
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_short-noarm_on 找到的moment_filt文件：['BT01_sit_to_stand_1_short-noarm_on_moment_filt.csv']
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_short-noarm_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_short-noarm_on：修正 8 个字段的符号
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_short-noarm_on：通过activity_flag筛选，保留 6669/16401 行数据
+2025-10-15 20:49:04 - [BT01] sit_to_stand_1_short-noarm_on 成功：保存至 ./final_clean_data/BT01/sit_to_stand_1_short-noarm_on
+2025-10-15 20:49:04 - [BT01] jump_1_fb_on 找到的exo文件：['BT01_jump_1_fb_on_exo.csv']
+2025-10-15 20:49:04 - [BT01] jump_1_fb_on 找到的moment_filt文件：['BT01_jump_1_fb_on_moment_filt.csv']
+2025-10-15 20:49:04 - [BT01] jump_1_fb_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:04 - [BT01] jump_1_fb_on：修正 8 个字段的符号
+2025-10-15 20:49:04 - [BT01] jump_1_fb_on：通过activity_flag筛选，保留 3226/6201 行数据
+2025-10-15 20:49:04 - [BT01] jump_1_fb_on 成功：保存至 ./final_clean_data/BT01/jump_1_fb_on
+2025-10-15 20:49:04 - [BT01] lift_weight_1_25lbs-l-l_on 找到的exo文件：['BT01_lift_weight_1_25lbs-l-l_on_exo.csv']
+2025-10-15 20:49:04 - [BT01] lift_weight_1_25lbs-l-l_on 找到的moment_filt文件：['BT01_lift_weight_1_25lbs-l-l_on_moment_filt.csv']
+2025-10-15 20:49:04 - [BT01] lift_weight_1_25lbs-l-l_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:04 - [BT01] lift_weight_1_25lbs-l-l_on：修正 8 个字段的符号
+2025-10-15 20:49:04 - [BT01] lift_weight_1_25lbs-l-l_on：通过activity_flag筛选，保留 2171/3001 行数据
+2025-10-15 20:49:05 - [BT01] lift_weight_1_25lbs-l-l_on 成功：保存至 ./final_clean_data/BT01/lift_weight_1_25lbs-l-l_on
+2025-10-15 20:49:05 - [BT01] normal_walk_3_1-8_off 找到的exo文件：['BT01_normal_walk_3_1-8_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] normal_walk_3_1-8_off 找到的moment_filt文件：['BT01_normal_walk_3_1-8_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] normal_walk_3_1-8_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:05 - [BT01] normal_walk_3_1-8_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:05 - [BT01] normal_walk_3_1-8_off：修正 8 个字段的符号
+2025-10-15 20:49:05 - [BT01] normal_walk_3_1-8_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:05 - [BT01] normal_walk_3_1-8_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_1-8_off
+2025-10-15 20:49:05 - [BT01] incline_walk_4_down5_off 找到的exo文件：['BT01_incline_walk_4_down5_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] incline_walk_4_down5_off 找到的moment_filt文件：['BT01_incline_walk_4_down5_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] incline_walk_4_down5_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:05 - [BT01] squats_2_25lbs_off 找到的exo文件：['BT01_squats_2_25lbs_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] squats_2_25lbs_off 找到的moment_filt文件：['BT01_squats_2_25lbs_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] squats_2_25lbs_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:05 - [BT01] squats_2_25lbs_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:05 - [BT01] squats_2_25lbs_off：修正 8 个字段的符号
+2025-10-15 20:49:05 - [BT01] squats_2_25lbs_off：通过activity_flag筛选，保留 1908/3001 行数据
+2025-10-15 20:49:05 - [BT01] squats_2_25lbs_off 成功：保存至 ./final_clean_data/BT01/squats_2_25lbs_off
+2025-10-15 20:49:05 - [BT01] stairs_1_1_up_on 找到的exo文件：['BT01_stairs_1_1_up_on_exo.csv']
+2025-10-15 20:49:05 - [BT01] stairs_1_1_up_on 找到的moment_filt文件：['BT01_stairs_1_1_up_on_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] stairs_1_1_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:05 - [BT01] normal_walk_1_0-6_on 找到的exo文件：['BT01_normal_walk_1_0-6_on_exo.csv']
+2025-10-15 20:49:05 - [BT01] normal_walk_1_0-6_on 找到的moment_filt文件：['BT01_normal_walk_1_0-6_on_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] normal_walk_1_0-6_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:05 - [BT01] normal_walk_1_0-6_on：修正 8 个字段的符号
+2025-10-15 20:49:05 - [BT01] normal_walk_1_0-6_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:05 - [BT01] normal_walk_1_0-6_on 成功：保存至 ./final_clean_data/BT01/normal_walk_1_0-6_on
+2025-10-15 20:49:05 - [BT01] stairs_2_2_down_on 找到的exo文件：['BT01_stairs_2_2_down_on_exo.csv']
+2025-10-15 20:49:05 - [BT01] stairs_2_2_down_on 找到的moment_filt文件：['BT01_stairs_2_2_down_on_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] stairs_2_2_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:05 - [BT01] stairs_2_1_up_off 找到的exo文件：['BT01_stairs_2_1_up_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] stairs_2_1_up_off 找到的moment_filt文件：['BT01_stairs_2_1_up_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] stairs_2_1_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:05 - [BT01] stairs_2_4_down_on 找到的exo文件：['BT01_stairs_2_4_down_on_exo.csv']
+2025-10-15 20:49:05 - [BT01] stairs_2_4_down_on 找到的moment_filt文件：['BT01_stairs_2_4_down_on_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] stairs_2_4_down_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:05 - [BT01] lift_weight_2_2_0lbs-l-l_off 找到的exo文件：['BT01_lift_weight_2_2_0lbs-l-l_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] lift_weight_2_2_0lbs-l-l_off 找到的moment_filt文件：['BT01_lift_weight_2_2_0lbs-l-l_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] lift_weight_2_2_0lbs-l-l_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:05 - [BT01] lift_weight_2_2_0lbs-l-l_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:05 - [BT01] lift_weight_2_2_0lbs-l-l_off：修正 8 个字段的符号
+2025-10-15 20:49:05 - [BT01] lift_weight_2_2_0lbs-l-l_off：通过activity_flag筛选，保留 2022/3001 行数据
+2025-10-15 20:49:05 - [BT01] lift_weight_2_2_0lbs-l-l_off 成功：保存至 ./final_clean_data/BT01/lift_weight_2_2_0lbs-l-l_off
+2025-10-15 20:49:05 - [BT01] stairs_1_2_down_off 找到的exo文件：['BT01_stairs_1_2_down_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] stairs_1_2_down_off 找到的moment_filt文件：['BT01_stairs_1_2_down_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] stairs_1_2_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:05 - [BT01] dynamic_walk_1_high-knees_on 找到的exo文件：['BT01_dynamic_walk_1_high-knees_on_exo.csv']
+2025-10-15 20:49:05 - [BT01] dynamic_walk_1_high-knees_on 找到的moment_filt文件：['BT01_dynamic_walk_1_high-knees_on_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] dynamic_walk_1_high-knees_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:05 - [BT01] dynamic_walk_1_high-knees_on：修正 8 个字段的符号
+2025-10-15 20:49:05 - [BT01] dynamic_walk_1_high-knees_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:05 - [BT01] dynamic_walk_1_high-knees_on 成功：保存至 ./final_clean_data/BT01/dynamic_walk_1_high-knees_on
+2025-10-15 20:49:05 - [BT01] stairs_1_7_up_on 找到的exo文件：['BT01_stairs_1_7_up_on_exo.csv']
+2025-10-15 20:49:05 - [BT01] stairs_1_7_up_on 找到的moment_filt文件：['BT01_stairs_1_7_up_on_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] stairs_1_7_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:05 - [BT01] cutting_1_left-slow_off 找到的exo文件：['BT01_cutting_1_left-slow_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] cutting_1_left-slow_off 找到的moment_filt文件：['BT01_cutting_1_left-slow_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] cutting_1_left-slow_off 失败：双腿力矩均有NaN
+2025-10-15 20:49:05 - [BT01] walk_backward_1_0-8_on 找到的exo文件：['BT01_walk_backward_1_0-8_on_exo.csv']
+2025-10-15 20:49:05 - [BT01] walk_backward_1_0-8_on 找到的moment_filt文件：['BT01_walk_backward_1_0-8_on_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] walk_backward_1_0-8_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:05 - [BT01] walk_backward_1_0-8_on：修正 8 个字段的符号
+2025-10-15 20:49:05 - [BT01] walk_backward_1_0-8_on：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:05 - [BT01] walk_backward_1_0-8_on 成功：保存至 ./final_clean_data/BT01/walk_backward_1_0-8_on
+2025-10-15 20:49:05 - [BT01] lift_weight_1_25lbs-r-r_on 找到的exo文件：['BT01_lift_weight_1_25lbs-r-r_on_exo.csv']
+2025-10-15 20:49:05 - [BT01] lift_weight_1_25lbs-r-r_on 找到的moment_filt文件：['BT01_lift_weight_1_25lbs-r-r_on_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] lift_weight_1_25lbs-r-r_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:05 - [BT01] lift_weight_1_25lbs-r-r_on：修正 8 个字段的符号
+2025-10-15 20:49:05 - [BT01] lift_weight_1_25lbs-r-r_on：通过activity_flag筛选，保留 2096/3601 行数据
+2025-10-15 20:49:05 - [BT01] lift_weight_1_25lbs-r-r_on 成功：保存至 ./final_clean_data/BT01/lift_weight_1_25lbs-r-r_on
+2025-10-15 20:49:05 - [BT01] cutting_1_right-slow_off 找到的exo文件：['BT01_cutting_1_right-slow_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] cutting_1_right-slow_off 找到的moment_filt文件：['BT01_cutting_1_right-slow_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] cutting_1_right-slow_off 失败：双腿力矩均有NaN
+2025-10-15 20:49:05 - [BT01] lift_weight_1_2_25lbs-l-l_off 找到的exo文件：['BT01_lift_weight_1_2_25lbs-l-l_off_exo.csv']
+2025-10-15 20:49:05 - [BT01] lift_weight_1_2_25lbs-l-l_off 找到的moment_filt文件：['BT01_lift_weight_1_2_25lbs-l-l_off_moment_filt.csv']
+2025-10-15 20:49:05 - [BT01] lift_weight_1_2_25lbs-l-l_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:05 - [BT01] lift_weight_1_2_25lbs-l-l_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:05 - [BT01] lift_weight_1_2_25lbs-l-l_off：修正 8 个字段的符号
+2025-10-15 20:49:05 - [BT01] lift_weight_1_2_25lbs-l-l_off：通过activity_flag筛选，保留 2179/2801 行数据
+2025-10-15 20:49:06 - [BT01] lift_weight_1_2_25lbs-l-l_off 成功：保存至 ./final_clean_data/BT01/lift_weight_1_2_25lbs-l-l_off
+2025-10-15 20:49:06 - [BT01] stairs_2_9_up_off 找到的exo文件：['BT01_stairs_2_9_up_off_exo.csv']
+2025-10-15 20:49:06 - [BT01] stairs_2_9_up_off 找到的moment_filt文件：['BT01_stairs_2_9_up_off_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] stairs_2_9_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:06 - [BT01] walk_backward_1_1-0_off 找到的exo文件：['BT01_walk_backward_1_1-0_off_exo.csv']
+2025-10-15 20:49:06 - [BT01] walk_backward_1_1-0_off 找到的moment_filt文件：['BT01_walk_backward_1_1-0_off_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] walk_backward_1_1-0_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:06 - [BT01] walk_backward_1_1-0_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:06 - [BT01] walk_backward_1_1-0_off：修正 8 个字段的符号
+2025-10-15 20:49:06 - [BT01] walk_backward_1_1-0_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:06 - [BT01] walk_backward_1_1-0_off 成功：保存至 ./final_clean_data/BT01/walk_backward_1_1-0_off
+2025-10-15 20:49:06 - [BT01] stairs_1_8_down_off 找到的exo文件：['BT01_stairs_1_8_down_off_exo.csv']
+2025-10-15 20:49:06 - [BT01] stairs_1_8_down_off 找到的moment_filt文件：['BT01_stairs_1_8_down_off_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] stairs_1_8_down_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:06 - [BT01] stairs_2_5_up_off 找到的exo文件：['BT01_stairs_2_5_up_off_exo.csv']
+2025-10-15 20:49:06 - [BT01] stairs_2_5_up_off 找到的moment_filt文件：['BT01_stairs_2_5_up_off_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] stairs_2_5_up_off：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:06 - [BT01] normal_walk_3_0-6_off 找到的exo文件：['BT01_normal_walk_3_0-6_off_exo.csv']
+2025-10-15 20:49:06 - [BT01] normal_walk_3_0-6_off 找到的moment_filt文件：['BT01_normal_walk_3_0-6_off_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] normal_walk_3_0-6_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left']）
+2025-10-15 20:49:06 - [BT01] normal_walk_3_0-6_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:06 - [BT01] normal_walk_3_0-6_off：修正 8 个字段的符号
+2025-10-15 20:49:06 - [BT01] normal_walk_3_0-6_off：通过activity_flag筛选，保留 4001/4001 行数据
+2025-10-15 20:49:06 - [BT01] normal_walk_3_0-6_off 成功：保存至 ./final_clean_data/BT01/normal_walk_3_0-6_off
+2025-10-15 20:49:06 - [BT01] stairs_1_3_up_on 找到的exo文件：['BT01_stairs_1_3_up_on_exo.csv']
+2025-10-15 20:49:06 - [BT01] stairs_1_3_up_on 找到的moment_filt文件：['BT01_stairs_1_3_up_on_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] stairs_1_3_up_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:06 - [BT01] curb_up_1_on 找到的exo文件：['BT01_curb_up_1_on_exo.csv']
+2025-10-15 20:49:06 - [BT01] curb_up_1_on 找到的moment_filt文件：['BT01_curb_up_1_on_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] curb_up_1_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:06 - [BT01] jump_1_hop_on 找到的exo文件：['BT01_jump_1_hop_on_exo.csv']
+2025-10-15 20:49:06 - [BT01] jump_1_hop_on 找到的moment_filt文件：['BT01_jump_1_hop_on_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] jump_1_hop_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:06 - [BT01] jump_1_hop_on：修正 8 个字段的符号
+2025-10-15 20:49:06 - [BT01] jump_1_hop_on：通过activity_flag筛选，保留 1304/2401 行数据
+2025-10-15 20:49:06 - [BT01] jump_1_hop_on 成功：保存至 ./final_clean_data/BT01/jump_1_hop_on
+2025-10-15 20:49:06 - [BT01] step_ups_1_left_off 找到的exo文件：['BT01_step_ups_1_left_off_exo.csv']
+2025-10-15 20:49:06 - [BT01] step_ups_1_left_off 找到的moment_filt文件：['BT01_step_ups_1_left_off_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] step_ups_1_left_off 有效腿：['left', 'right']
+2025-10-15 20:49:06 - [BT01] step_ups_1_left_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:06 - [BT01] step_ups_1_left_off：修正 8 个字段的符号
+2025-10-15 20:49:06 - [BT01] step_ups_1_left_off：通过activity_flag筛选，保留 1636/4201 行数据
+2025-10-15 20:49:06 - [BT01] step_ups_1_left_off 成功：保存至 ./final_clean_data/BT01/step_ups_1_left_off
+2025-10-15 20:49:06 - [BT01] lift_weight_2_2_0lbs-r-c_off 找到的exo文件：['BT01_lift_weight_2_2_0lbs-r-c_off_exo.csv']
+2025-10-15 20:49:06 - [BT01] lift_weight_2_2_0lbs-r-c_off 找到的moment_filt文件：['BT01_lift_weight_2_2_0lbs-r-c_off_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] lift_weight_2_2_0lbs-r-c_off：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:06 - [BT01] lift_weight_2_2_0lbs-r-c_off：外骨骼关闭，删除 8 个控制字段
+2025-10-15 20:49:06 - [BT01] lift_weight_2_2_0lbs-r-c_off：修正 8 个字段的符号
+2025-10-15 20:49:06 - [BT01] lift_weight_2_2_0lbs-r-c_off：通过activity_flag筛选，保留 2094/3001 行数据
+2025-10-15 20:49:06 - [BT01] lift_weight_2_2_0lbs-r-c_off 成功：保存至 ./final_clean_data/BT01/lift_weight_2_2_0lbs-r-c_off
+2025-10-15 20:49:06 - [BT01] jump_3_90-f_on 找到的exo文件：['BT01_jump_3_90-f_on_exo.csv']
+2025-10-15 20:49:06 - [BT01] jump_3_90-f_on 找到的moment_filt文件：['BT01_jump_3_90-f_on_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] jump_3_90-f_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:06 - [BT01] jump_3_90-f_on：修正 8 个字段的符号
+2025-10-15 20:49:06 - [BT01] jump_3_90-f_on：通过activity_flag筛选，保留 3923/5201 行数据
+2025-10-15 20:49:06 - [BT01] jump_3_90-f_on 成功：保存至 ./final_clean_data/BT01/jump_3_90-f_on
+2025-10-15 20:49:06 - [BT01] jump_3_90-s_on 找到的exo文件：['BT01_jump_3_90-s_on_exo.csv']
+2025-10-15 20:49:06 - [BT01] jump_3_90-s_on 找到的moment_filt文件：['BT01_jump_3_90-s_on_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] jump_3_90-s_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:06 - [BT01] jump_3_90-s_on：修正 8 个字段的符号
+2025-10-15 20:49:06 - [BT01] jump_3_90-s_on：通过activity_flag筛选，保留 4132/5201 行数据
+2025-10-15 20:49:06 - [BT01] jump_3_90-s_on 成功：保存至 ./final_clean_data/BT01/jump_3_90-s_on
+2025-10-15 20:49:06 - [BT01] lift_weight_2_0lbs-r-r_on 找到的exo文件：['BT01_lift_weight_2_0lbs-r-r_on_exo.csv']
+2025-10-15 20:49:06 - [BT01] lift_weight_2_0lbs-r-r_on 找到的moment_filt文件：['BT01_lift_weight_2_0lbs-r-r_on_moment_filt.csv']
+2025-10-15 20:49:06 - [BT01] lift_weight_2_0lbs-r-r_on：未拆分左右腿，强制保留双腿字段（初始有效腿：['left', 'right']）
+2025-10-15 20:49:06 - [BT01] lift_weight_2_0lbs-r-r_on：修正 8 个字段的符号
+2025-10-15 20:49:06 - [BT01] lift_weight_2_0lbs-r-r_on：通过activity_flag筛选，保留 1870/3001 行数据
+2025-10-15 20:49:07 - [BT01] lift_weight_2_0lbs-r-r_on 成功：保存至 ./final_clean_data/BT01/lift_weight_2_0lbs-r-r_on
+2025-10-15 20:49:07 - [BT01] incline_walk_3_down5_on 找到的exo文件：['BT01_incline_walk_3_down5_on_exo.csv']
+2025-10-15 20:49:07 - [BT01] incline_walk_3_down5_on 找到的moment_filt文件：['BT01_incline_walk_3_down5_on_moment_filt.csv']
+2025-10-15 20:49:07 - [BT01] incline_walk_3_down5_on：未拆分左右腿，但初始有效腿为空，跳过
+2025-10-15 20:49:07 - 批量处理完成：成功/跳过 115/128，失败 13/128，其他跳过 0/128，跳过无效受试者0个
